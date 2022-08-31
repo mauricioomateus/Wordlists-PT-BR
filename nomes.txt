@@ -37,12 +37,10 @@ abednego
 abedon
 abegail
 abel
-Abel
 abelar
 abelard
 abelarda
 abelardo
-Abelardo
 abelina
 abelino
 abelita
@@ -99,7 +97,7 @@ abismael
 abissalao
 abiude
 abkeila
-Abílio
+abï¿½lio
 abmael
 abnadab
 abnadabe
@@ -110,15 +108,15 @@ abnoan
 abraao
 abraham
 abrahao
-Abrahão
+abrahï¿½o
 abramo
 abrantes
 abrao
-Abraão
+abraï¿½o
 abrelino
 abreu
 abriel
-Abrão
+abrï¿½o
 absael
 absair
 absalao
@@ -238,8 +236,7 @@ acucena
 acurcio
 acyr
 ada
-Aída
-Ada
+aï¿½da
 adaberto
 adacia
 adacil
@@ -302,7 +299,6 @@ adalberon
 adalbert
 adalberta
 adalberto
-Adalberto
 adalbeto
 adalcina
 adalcinda
@@ -318,7 +314,6 @@ adalgilsa
 adalgina
 adalgir
 adalgisa
-Adalgisa
 adalgisia
 adalgisio
 adalgiso
@@ -498,13 +493,11 @@ adejardo
 adejunior
 adel
 adela
-Adela
 adelacir
 adeladia
 adeladio
 adelaida
 adelaide
-Adelaide
 adelaides
 adelaidio
 adelaido
@@ -524,7 +517,6 @@ adelar
 adelario
 adelazir
 adelberto
-Adelberto
 adelchi
 adelci
 adelcia
@@ -568,7 +560,6 @@ adelilson
 adelimar
 adelin
 adelina
-Adelina
 adelinda
 adeline
 adelini
@@ -643,7 +634,6 @@ ademacio
 ademacir
 ademair
 ademar
-Ademar
 ademara
 ademarcia
 ademarcio
@@ -914,7 +904,6 @@ adgerson
 adgmar
 adguimar
 adhemar
-Adhemar
 adi
 adian
 adiana
@@ -1130,10 +1119,10 @@ adjunior
 adjuto
 adla
 adlas
-Adèle
+adï¿½le
 adlen
 adler
-Adélia
+adï¿½lia
 adlson
 adma
 admar
@@ -1195,7 +1184,7 @@ adnisio
 adnivaldo
 adno
 ado
-Adão
+adï¿½o
 adoaldo
 adoan
 adofo
@@ -1207,9 +1196,7 @@ adolfa
 adolfina
 adolfino
 adolfo
-Adolfo
 adolpho
-Adolpho
 adomar
 adomario
 adomicio
@@ -1286,11 +1273,8 @@ adriadna
 adriadne
 adriam
 adrian
-Adrian
 adriana
-Adriana
 adriane
-Adriane
 adrianes
 adriangela
 adriani
@@ -1298,9 +1282,7 @@ adriania
 adrianice
 adrianilson
 adrianne
-Adrianne
 adriano
-Adriano
 adrians
 adrianus
 adriany
@@ -1338,10 +1320,8 @@ adriely
 adrien
 adriena
 adriene
-Adriene
 adrieni
 adrienne
-Adrienne
 adrieno
 adriete
 adrieu
@@ -1454,7 +1434,6 @@ afonco
 afonsa
 afonsina
 afonso
-Afonso
 afonson
 afra
 afrain
@@ -1488,7 +1467,6 @@ agassis
 agata
 agatangelo
 agatha
-Agatha
 agathe
 agatta
 agberto
@@ -1525,7 +1503,6 @@ agenira
 agenita
 agenivaldo
 agenor
-Agenor
 agenora
 agentil
 ageo
@@ -1600,7 +1577,6 @@ agnailton
 agnair
 agnalda
 agnaldo
-Agnaldo
 agnalva
 agnan
 agnara
@@ -1619,7 +1595,6 @@ agnelson
 agner
 agnerio
 agnes
-Agnes
 agnese
 agnesia
 agnesio
@@ -1643,7 +1618,6 @@ agostin
 agostina
 agostinha
 agostinho
-Agostinho
 agostino
 agra
 agraci
@@ -1687,7 +1661,6 @@ aguinailde
 aguinailton
 aguinalda
 aguinaldo
-Aguinaldo
 aguineide
 aguinel
 aguinela
@@ -1748,7 +1721,6 @@ aiezer
 aijalon
 aika
 aiko
-Aiko
 aila
 ailan
 ailana
@@ -1769,7 +1741,7 @@ ailza
 aimar
 aimbere
 aime
-Aimée
+aimï¿½e
 aimee
 aimi
 aimore
@@ -1817,7 +1789,6 @@ airtes
 airto
 airtom
 airton
-Airton
 aisa
 aisamaque
 aischa
@@ -1854,14 +1825,11 @@ ajane
 ajax
 ajenor
 ajit
-Ajit
 ajose
 ajuricaba
 ajurimar
 akahana
-Akahana
 akako
-Akako
 akan
 akeline
 akelly
@@ -1898,7 +1866,7 @@ alacidio
 alacir
 alacoque
 alacrino
-Alaíde
+alaï¿½de
 aladia
 aladias
 aladim
@@ -1938,7 +1906,6 @@ alamiro
 alamo
 alan
 alana
-Alana
 alanda
 alandelon
 alander
@@ -1949,7 +1916,6 @@ alandione
 alandra
 alandson
 alane
-Alane
 alanes
 alani
 alania
@@ -1961,9 +1927,7 @@ alanis
 alanise
 alann
 alanna
-Alanna
 alanne
-Alanne
 alano
 alany
 alanys
@@ -1975,7 +1939,6 @@ alasson
 alax
 alayde
 alba
-Alba
 albadias
 albana
 albane
@@ -2040,18 +2003,15 @@ alberonio
 alberson
 albert
 alberta
-Alberta
 alberte
 alberth
 alberti
 albertin
 albertina
-Albertina
 albertine
 albertini
 albertino
 alberto
-Alberto
 albertone
 albertoni
 albertonio
@@ -2116,7 +2076,6 @@ alceri
 alcerio
 alceste
 alceu
-Alceu
 alci
 alciades
 alcian
@@ -2146,7 +2105,6 @@ alcidenia
 alcidenir
 alcidenor
 alcides
-Alcides
 alcidesia
 alcidesio
 alcidete
@@ -2227,7 +2185,6 @@ alcio
 alciomar
 alcion
 alcione
-Alcione
 alcionede
 alcioneia
 alcioneida
@@ -2270,13 +2227,10 @@ alciza
 alclecio
 alcy
 alcyone
-Alcyone
 alcyr
 alda
-Alda
 aldaberon
 aldaberto
-Aldaberto
 aldacelia
 aldaci
 aldacilene
@@ -2518,7 +2472,6 @@ aldinair
 aldinaldo
 aldinan
 aldine
-Aldine
 aldinea
 aldinei
 aldineia
@@ -2561,7 +2514,6 @@ aldnei
 aldneia
 aldneide
 aldo
-Aldo
 aldoberto
 aldocir
 aldoino
@@ -2609,7 +2561,6 @@ aleandro
 aleane
 aleardo
 alec
-Alec
 alecandra
 alecandro
 alece
@@ -2627,7 +2578,6 @@ aleckson
 alecrides
 alecsander
 alecsandra
-Alecsandra
 alecsandre
 alecsandro
 alecsia
@@ -2648,7 +2598,6 @@ alefi
 alefy
 alegna
 alegra
-Alegra
 alegria
 alehandro
 aleida
@@ -2659,7 +2608,6 @@ aleir
 aleixina
 aleixo
 alejandra
-Alejandra
 alejandro
 alejo
 alekesandro
@@ -2667,7 +2615,6 @@ alekis
 aleksander
 aleksandr
 aleksandra
-Aleksandra
 aleksandro
 aleksei
 aleluia
@@ -2734,10 +2681,8 @@ alessanda
 alessander
 alessando
 alessandra
-Alessandra
 alessandre
 alessandro
-Alessandro
 alessane
 alessany
 alessia
@@ -2751,7 +2696,6 @@ aleteia
 alethea
 aleuda
 alex
-Alex
 alexa
 alexadra
 alexadre
@@ -2764,9 +2708,7 @@ alexanderson
 alexando
 alexandr
 alexandra
-Alexandra
 alexandre
-Alexandre
 alexandrea
 alexandri
 alexandria
@@ -2844,7 +2786,6 @@ alfo
 alfons
 alfonsina
 alfonso
-Alfonso
 alfran
 alfrania
 alfranio
@@ -2854,7 +2795,6 @@ alfrede
 alfredina
 alfredinho
 alfredo
-Alfredo
 alfredro
 alfredson
 alfreu
@@ -2891,14 +2831,12 @@ aliane
 alica
 alican
 alice
-Alice
 alicea
 aliceana
 aliceane
 alicemara
 alici
 alicia
-Alicia
 aliciana
 aliciane
 alicie
@@ -2943,7 +2881,6 @@ alis
 alisandra
 alise
 alisha
-Alisha
 alisio
 aliso
 alisom
@@ -2983,7 +2920,6 @@ allef
 allefe
 allefy
 allegra
-Allegra
 allejandro
 allen
 allerrandro
@@ -3106,11 +3042,10 @@ alonco
 alonio
 alonsio
 alonso
-Alonso
 alonson
 alorino
 alosio
-Aloísio
+aloï¿½sio
 aloso
 aloysio
 alpina
@@ -3253,7 +3188,7 @@ altobeli
 altomir
 altomiro
 alton
-Aílton
+aï¿½lton
 altran
 aluan
 aluana
@@ -3264,7 +3199,7 @@ aluiza
 aluizio
 aluizo
 alune
-Aluísio
+aluï¿½sio
 aluska
 alva
 alvaceli
@@ -3363,7 +3298,7 @@ alvorino
 alvoro
 alxandre
 alxandro
-Aléxis
+alï¿½xis
 alyce
 alyne
 alynne
@@ -3420,7 +3355,6 @@ alzineide
 alzinete
 alzir
 alzira
-Alzira
 alzirene
 alzires
 alzirina
@@ -3447,9 +3381,7 @@ amada
 amadel
 amadeo
 amadeu
-Amadeu
 amadeus
-Amadeus
 amadilson
 amadio
 amadir
@@ -3476,7 +3408,6 @@ amanaiara
 amancia
 amancio
 amanda
-Amanda
 amandda
 amandi
 amandia
@@ -3490,7 +3421,6 @@ amantina
 amantino
 amapola
 amar
-Amar
 amara
 amaraci
 amaraisa
@@ -3536,7 +3466,6 @@ amaro
 amaryllis
 amaure
 amauri
-Amauri
 amauricio
 amaurido
 amaurildo
@@ -3548,7 +3477,6 @@ amaurir
 amaurita
 amauro
 amaury
-Amaury
 amavel
 amaya
 amazias
@@ -3577,7 +3505,6 @@ ambrozina
 ambrozio
 amecia
 amedeo
-Amedeo
 amedio
 amelha
 ameli
@@ -3666,23 +3593,19 @@ amirtes
 amirto
 amirton
 amisha
-Amisha
 amison
 amisterdan
 amistron
 amita
-Amita
 amitai
 amiti
-Amiti
 amiton
 amivaldo
 amizadai
 amizael
-Amílcar
-Amália
-Amélia
-Amélie
+amï¿½lcar
+amï¿½lia
+amï¿½lie
 amnda
 amne
 amoacir
@@ -3706,8 +3629,8 @@ ampara
 amparo
 ampelio
 amperio
-América
-Américo
+amï¿½rica
+amï¿½rico
 amro
 amsterda
 amsterdan
@@ -3715,10 +3638,8 @@ amtonio
 amujaci
 amuri
 amy
-Amy
 an
 ana
-Ana
 anabel
 anabela
 anabele
@@ -3950,16 +3871,15 @@ anarli
 anaro
 anarolino
 anarosa
-Anaís
+anaï¿½s
 anasara
 anasia
 anasio
 anastacia
 anastacio
 anastasia
-Anastasia
 anastasio
-Anastácia
+anastï¿½cia
 anata
 anatacha
 anatacia
@@ -4017,7 +3937,7 @@ anazion
 anazir
 anazira
 anazita
-Aníbal
+anï¿½bal
 anbrosio
 ancelia
 ancelina
@@ -4103,9 +4023,9 @@ andina
 andira
 andison
 andr
-André
+andrï¿½
 andra
-Andréa
+andrï¿½a
 andraci
 andrada
 andrade
@@ -4193,14 +4113,12 @@ andrerlan
 andrerson
 andres
 andresa
-Andresa
 andresca
 andresia
 andreso
 andreson
 andress
 andressa
-Andressa
 andressia
 andresso
 andresson
@@ -4218,17 +4136,15 @@ andrews
 andrey
 andreyna
 andreza
-Andreza
 andreziane
 andreziele
 andrezina
 andrezinho
 andrezito
 andrezza
-Andrezza
 andri
 andria
-Andréia
+andrï¿½ia
 andrian
 andriana
 andriane
@@ -4374,7 +4290,6 @@ anestrina
 anet
 aneta
 anete
-Anete
 aneto
 anette
 anevaldo
@@ -4391,7 +4306,6 @@ anfrisia
 anfrisio
 ange
 angel
-Angel
 angela
 angelamar
 angelamaria
@@ -4402,7 +4316,6 @@ angele
 angelena
 angeles
 angeli
-Angeli
 angelia
 angeliana
 angeliane
@@ -4415,7 +4328,6 @@ angeliete
 angelim
 angelin
 angelina
-Angelina
 angeline
 angelino
 angelio
@@ -4425,7 +4337,6 @@ angelisa
 angelise
 angelison
 angelita
-Angelita
 angelito
 angella
 angellica
@@ -4463,7 +4374,7 @@ angilene
 angivaldo
 angla
 angleson
-Angélica
+angï¿½lica
 angra
 angreson
 angria
@@ -4583,7 +4494,6 @@ anisson
 anistela
 anisvaldo
 anita
-Anita
 anito
 aniton
 anitta
@@ -4618,15 +4528,12 @@ anjo
 anke
 ann
 anna
-Anna
 anne
-Anne
 anneliese
 annelise
 annelize
 annemarie
 annete
-Annete
 anni
 annie
 annita
@@ -4646,7 +4553,6 @@ anorato
 anorina
 anorino
 anoush
-Anoush
 anrafel
 anreia
 anressa
@@ -4656,10 +4562,9 @@ anriete
 anselio
 anselma
 anselmo
-Anselmo
 anserson
 ansila
-Anísio
+anï¿½sio
 ant
 anta
 antania
@@ -4673,7 +4578,6 @@ antelmo
 antemar
 antenogenes
 antenor
-Antenor
 antenora
 anteogenes
 anteria
@@ -4694,9 +4598,9 @@ antino
 antiogenes
 antistenes
 antnia
-Antônia
+antï¿½nia
 antnio
-Antônio
+antï¿½nio
 anto
 antoanete
 antobio
@@ -4715,9 +4619,7 @@ anton
 antone
 antoneide
 antonela
-Antonela
 antonella
-Antonella
 antones
 antonete
 antonha
@@ -4741,7 +4643,6 @@ antonielly
 antonielma
 antonielson
 antonieta
-Antonieta
 antoniete
 antonietta
 antonii
@@ -4827,7 +4728,6 @@ aparcido
 aparecda
 aparecia
 aparecida
-Aparecida
 aparecido
 aparedida
 apareida
@@ -4876,7 +4776,6 @@ aquilea
 aquileia
 aquilene
 aquiles
-Aquiles
 aquileu
 aquilina
 aquilino
@@ -4915,7 +4814,6 @@ aracelli
 aracema
 arachele
 araci
-Araci
 araciana
 araciara
 aracilda
@@ -4926,7 +4824,6 @@ aracina
 aracir
 aracira
 aracy
-Aracy
 aradi
 aradia
 aradine
@@ -5099,10 +4996,8 @@ arestide
 arestides
 arestino
 areta
-Areta
 arete
 aretha
-Aretha
 aretusa
 aretuza
 areu
@@ -5164,12 +5059,10 @@ arialdo
 ariamiro
 arian
 ariana
-Ariana
 arianderson
 ariandne
 ariandra
 ariane
-Ariane
 arianete
 ariangela
 ariangelo
@@ -5233,14 +5126,11 @@ ariedne
 ariedson
 ariel
 ariela
-Ariela
 ariele
 arieli
 ariell
 ariella
-Ariella
 arielle
-Arielle
 arielli
 arielly
 arielma
@@ -5497,7 +5387,6 @@ arlem
 arlen
 arlena
 arlene
-Arlene
 arleni
 arlenia
 arlenice
@@ -5515,7 +5404,6 @@ arlesson
 arlet
 arleta
 arlete
-Arlete
 arleti
 arletiane
 arleto
@@ -5579,7 +5467,6 @@ armandina
 armandino
 armandio
 armando
-Armando
 armanio
 armano
 armante
@@ -5629,7 +5516,6 @@ arnado
 arnalda
 arnaldino
 arnaldo
-Arnaldo
 arnan
 arnanda
 arnandes
@@ -5752,7 +5638,6 @@ artenisia
 arteniza
 arthu
 arthur
-Arthur
 artibano
 artidonio
 artidor
@@ -5771,7 +5656,6 @@ artu
 artulino
 artulita
 artur
-Artur
 arturo
 artus
 arua
@@ -5816,7 +5700,6 @@ asclepiades
 asdrubal
 aselmo
 asha
-Asha
 asheley
 ashiley
 ashley
@@ -5860,7 +5743,7 @@ assuncao
 assuncena
 assuncion
 assunciona
-Assunção
+assunï¿½ï¿½o
 assunta
 assusena
 assussena
@@ -5884,9 +5767,7 @@ astrea
 astreia
 astri
 astrid
-Astrid
 astride
-Astride
 astriel
 astrit
 astro
@@ -5933,7 +5814,7 @@ ataisio
 atalan
 atalanta
 atalecio
-Ataúlfo
+ataï¿½lfo
 atali
 atalia
 ataliane
@@ -6209,18 +6090,14 @@ augostinho
 augosto
 august
 augusta
-Augusta
 augustavo
 augustin
 augustina
-Augustina
 augustine
-Augustine
 augustinha
 augustinho
 augustino
 augusto
-Augusto
 augustus
 auguto
 auleriano
@@ -6440,12 +6317,10 @@ aurizelia
 aurizene
 aurizete
 aurizia
-Aurélia
-Aurélio
+aurï¿½lia
+aurï¿½lio
 auro
-Auro
 aurora
-Aurora
 ausino
 ausione
 ausira
@@ -6477,7 +6352,6 @@ auxilene
 auxilia
 auxiliador
 auxiliadora
-Auxiliadora
 auxiliane
 auxilio
 auzair
@@ -6631,7 +6505,6 @@ ayra
 ayres
 ayron
 ayrton
-Ayrton
 aysha
 aysla
 ayslan
@@ -6640,7 +6513,6 @@ aysllan
 ayub
 ayume
 ayumi
-Ayumi
 ayune
 ayure
 ayuri
@@ -6704,7 +6576,6 @@ azizo
 azor
 babara
 babette
-Babette
 babiana
 babiton
 baby
@@ -6714,7 +6585,6 @@ badio
 badra
 baiano
 balbina
-Balbina
 balbino
 baldoina
 baldoino
@@ -6723,11 +6593,9 @@ baldomiro
 balduino
 baldur
 balraj
-Balraj
 balsanufo
 baltasar
 baltazar
-Baltazar
 baltazarina
 bambina
 banca
@@ -6737,10 +6605,8 @@ barara
 barbara
 barbaro
 barbie
-Barbie
 barbosa
 barbra
-Barbra
 barnabe
 barnabel
 baroni
@@ -6761,7 +6627,6 @@ bartolome
 bartolomel
 bartolomeo
 bartolomeu
-Bartolomeu
 barton
 bartos
 baruc
@@ -6774,7 +6639,7 @@ basiliano
 basilicia
 basilio
 basilo
-Basílio
+basï¿½lio
 bassam
 bastian
 bastiana
@@ -6792,20 +6657,16 @@ bazilio
 beany
 beariz
 beata
-Beata
 beate
 beatiz
 beato
 beatria
 beatrice
-Beatrice
 beatricia
 beatricy
 beatris
 beatrix
-Beatrix
 beatriz
-Beatriz
 beatryz
 beatrz
 beattriz
@@ -6822,7 +6683,6 @@ beijamin
 bejamim
 bejamin
 bela
-Bela
 belamina
 belanice
 belanilza
@@ -6843,7 +6703,6 @@ belga
 belgica
 belina
 belinda
-Belinda
 belinha
 belini
 belino
@@ -6859,9 +6718,7 @@ belizia
 belkis
 belkiss
 bella
-Bella
 belle
-Belle
 belmira
 belmiria
 belmirio
@@ -6891,7 +6748,7 @@ benardete
 benardo
 benaria
 benavenuto
-Benício
+benï¿½cio
 benda
 bendita
 bendito
@@ -6899,18 +6756,14 @@ bene
 benecia
 benedeta
 benedicta
-Benedicta
 benedicto
-Benedicto
 benedida
 benedido
 benediel
 benedilson
 benedina
 benedita
-Benedita
 benedito
-Benedito
 benedto
 benegildo
 benegilson
@@ -6961,12 +6814,9 @@ benissio
 benita
 benites
 benito
-Benito
 benivaldo
 benjamim
-Benjamim
 benjamin
-Benjamin
 benjamina
 benno
 beno
@@ -6983,7 +6833,6 @@ benta
 bentinha
 bentinho
 bento
-Bento
 benunes
 benvenuta
 benvenuto
@@ -6997,7 +6846,6 @@ beranice
 bercho
 bercholina
 berenice
-Berenice
 berenici
 berenicia
 berenicio
@@ -7023,11 +6871,9 @@ bernabe
 bernada
 bernadeta
 bernadete
-Bernadete
 bernadeth
 bernadeti
 bernadette
-Bernadette
 bernadina
 bernadino
 bernado
@@ -7041,16 +6887,13 @@ bernando
 bernar
 bernard
 bernarda
-Bernarda
 bernardes
 bernardete
 bernardeth
 bernardette
 bernardina
 bernardino
-Bernardino
 bernardo
-Bernardo
 bernd
 bernice
 berno
@@ -7060,10 +6903,8 @@ beronildo
 beronisa
 bert
 berta
-Berta
 bertania
 bertha
-Bertha
 berthold
 bertil
 bertila
@@ -7098,10 +6939,8 @@ betania
 betaniel
 betanio
 bete
-Bete
 betejane
 beth
-Beth
 bethania
 bethoven
 beti
@@ -7114,11 +6953,10 @@ betijane
 betilde
 betim
 betina
-Betina
 betine
 betinho
 betiza
-Betânia
+betï¿½nia
 beto
 betonio
 betriz
@@ -7141,7 +6979,6 @@ biagio
 biana
 bianc
 bianca
-Bianca
 biancca
 biancha
 bianco
@@ -7150,7 +6987,6 @@ bianor
 biata
 biatris
 biatriz
-Biatriz
 bibian
 bibiana
 bibiane
@@ -7194,7 +7030,6 @@ blaian
 blaion
 blanca
 blanche
-Blanche
 blandina
 blandine
 blandino
@@ -7256,7 +7091,6 @@ brais
 braitner
 brana
 branca
-Branca
 branco
 branda
 brandali
@@ -7296,7 +7130,7 @@ brayon
 braz
 brazilina
 brbara
-Bárbara
+bï¿½rbara
 brean
 bred
 breda
@@ -7310,7 +7144,6 @@ brena
 brenan
 brend
 brenda
-Brenda
 brendali
 brendda
 brendel
@@ -7331,39 +7164,32 @@ brenna
 brenner
 brenno
 breno
-Breno
 brenon
 breytner
-Brígida
+brï¿½gida
 briam
 brian
 briana
-Briana
 brianda
 briane
 briani
 brianne
-Brianne
 bricia
 bricio
 brida
 bridget
-Bridget
 briena
 brigida
 brigido
 brigite
-Brigite
 brigiti
 brigitta
 brigitte
-Brigitte
 brina
 brinaldo
 briolange
 brione
-Brione
-Bóris
+bï¿½ris
 brisa
 brisamar
 brisda
@@ -7390,7 +7216,6 @@ bruci
 bruma
 brun
 bruna
-Bruna
 brunara
 brunela
 brunele
@@ -7400,7 +7225,6 @@ brunelly
 bruner
 brunessa
 brunete
-Brunete
 bruni
 bruniel
 bruniele
@@ -7414,7 +7238,6 @@ brunislau
 brunna
 brunno
 bruno
-Bruno
 bryam
 bryan
 buena
@@ -7438,7 +7261,6 @@ cacieli
 caciene
 cacila
 cacilda
-Cacilda
 cacildo
 cacilene
 cacilia
@@ -7453,7 +7275,6 @@ cadmo
 cadu
 caetana
 caetano
-Caetano
 cai
 caia
 caian
@@ -7477,7 +7298,6 @@ cailon
 caina
 cainan
 caio
-Caio
 caion
 caios
 caique
@@ -7516,7 +7336,6 @@ calincola
 caline
 caliope
 calista
-Calista
 calistene
 calisto
 calistrato
@@ -7524,9 +7343,7 @@ calistro
 calita
 caliu
 calixta
-Calixta
 calixto
-Calixto
 calixtro
 calmerindo
 calmiranda
@@ -7542,17 +7359,13 @@ camargo
 camelia
 camelita
 camellia
-Camellia
 camem
 camerina
 camerino
 cameron
-Cameron
 camil
 camila
-Camila
 camile
-Camile
 camiles
 camili
 camilia
@@ -7560,19 +7373,16 @@ camiliane
 camilie
 camilio
 camilla
-Camilla
 camille
-Camille
 camilli
 camillo
 camilly
 camilo
-Camilo
 camilton
 camily
 camires
 camla
-Camélia
+camï¿½lia
 camoes
 campolim
 camyla
@@ -7587,7 +7397,6 @@ candace
 candelaria
 candelario
 candice
-Candice
 candida
 candido
 candinha
@@ -7616,7 +7425,6 @@ canuto
 caoa
 capistrano
 capitu
-Capitu
 capitulino
 caprice
 cara
@@ -7640,9 +7448,7 @@ cariele
 cariline
 carin
 carina
-Carina
 carine
-Carine
 carini
 carino
 cario
@@ -7660,7 +7466,6 @@ carivaldo
 carkos
 carl
 carla
-Carla
 carlan
 carlana
 carlandia
@@ -7747,7 +7552,6 @@ carliza
 carlizete
 carllos
 carlo
-Carlo
 carloa
 carloci
 carlod
@@ -7756,11 +7560,9 @@ carlomar
 carlon
 carlor
 carlos
-Carlos
 carlosman
 carlosmar
 carlota
-Carlota
 carloto
 carlotta
 carls
@@ -7781,9 +7583,7 @@ carmeci
 carmecilda
 carmecita
 carmel
-Carmel
 carmela
-Carmela
 carmelena
 carmelia
 carmeliana
@@ -7797,7 +7597,6 @@ carmelino
 carmelio
 carmelise
 carmelita
-Carmelita
 carmelito
 carmeliza
 carmella
@@ -7805,10 +7604,8 @@ carmelo
 carmeluce
 carmelucia
 carmem
-Carmem
 carmemlucia
 carmen
-Carmen
 carmena
 carmenci
 carmencita
@@ -7843,7 +7640,6 @@ carmilto
 carmilton
 carmim
 carmina
-Carmina
 carminda
 carmindo
 carmine
@@ -7857,7 +7653,6 @@ carmirene
 carmita
 carmito
 carmo
-Carmo
 carmon
 carmona
 carmonio
@@ -7871,14 +7666,12 @@ carmozina
 carmozinda
 carnem
 carnot
-Ícaro
+ï¿½caro
 caro
 caroena
 caroene
 carol
-Carol
 carola
-Carola
 carolai
 carolain
 carolaine
@@ -7887,9 +7680,7 @@ carolani
 carolayne
 carolin
 carolina
-Carolina
 caroline
-Caroline
 carolinecarvalho
 carolini
 carolinie
@@ -7903,9 +7694,7 @@ carolna
 carolne
 carolone
 carolyn
-Carolyn
 carolyne
-Carolyne
 caros
 carpegiane
 carpegiani
@@ -7942,7 +7731,6 @@ casio
 casios
 casius
 cassandra
-Cassandra
 cassandro
 casseane
 cassemira
@@ -7955,7 +7743,6 @@ cassiandra
 cassiane
 cassiani
 cassiano
-Cassiano
 cassiara
 cassida
 cassie
@@ -7969,7 +7756,6 @@ cassila
 cassilandia
 cassilane
 cassilda
-Cassilda
 cassildo
 cassileia
 cassilene
@@ -8002,16 +7788,13 @@ catalina
 catao
 catari
 catarina
-Catarina
 catarine
 catarino
 caterina
-Caterina
 caterine
 catharina
 catharine
 catherine
-Catherine
 catia
 catiana
 catiane
@@ -8054,8 +7837,8 @@ caylane
 cayo
 cayque
 cazuza
-Cícero
-Cécile
+cï¿½cero
+cï¿½cile
 cea
 ceane
 cebastiana
@@ -8081,7 +7864,7 @@ cecilma
 cecimara
 cecina
 cecivaldo
-Cecília
+cecï¿½lia
 cecy
 cedalia
 cedenir
@@ -8126,7 +7909,6 @@ celenita
 celerina
 celerino
 celeste
-Celeste
 celestia
 celestiana
 celestiane
@@ -8159,7 +7941,6 @@ celimar
 celimara
 celimaria
 celina
-Celina
 celinaldo
 celinalva
 celinda
@@ -8204,7 +7985,6 @@ celsina
 celsino
 celsio
 celso
-Celso
 celsomar
 celson
 celsso
@@ -8256,7 +8036,6 @@ cerena
 cereni
 cerenita
 ceres
-Ceres
 cergio
 ceriaco
 cerilio
@@ -8362,7 +8141,6 @@ chana
 chanderson
 chandler
 chandra
-Chandra
 chang
 chantal
 chao
@@ -8392,7 +8170,6 @@ charlene
 charleni
 charleno
 charles
-Charles
 charleson
 charlesson
 charleston
@@ -8426,7 +8203,6 @@ charllys
 charlon
 charlote
 charlotte
-Charlotte
 charls
 charlston
 charlton
@@ -8448,7 +8224,6 @@ chayane
 chayene
 cheila
 chelsea
-Chelsea
 chen
 cheng
 cherles
@@ -8464,7 +8239,6 @@ cheyenne
 chi
 chiang
 chiara
-Chiara
 chico
 chie
 chieko
@@ -8488,7 +8262,7 @@ chistiano
 chistopher
 chiu
 chiyoko
-Chloé
+chloï¿½
 chloe
 chong
 chrigor
@@ -8502,15 +8276,11 @@ chrispim
 chrissie
 christa
 christal
-Christal
 christel
 christia
 christian
-Christian
 christiana
-Christiana
 christiane
-Christiane
 christiani
 christianne
 christianno
@@ -8522,14 +8292,12 @@ christielle
 christielly
 christiene
 christina
-Christina
 christine
 christini
 christino
 christofer
 christoph
 christopher
-Christopher
 christos
 christovam
 christovao
@@ -8537,7 +8305,6 @@ christy
 christyan
 chritian
 chrystal
-Chrystal
 chrystian
 chrystiane
 chu
@@ -8550,7 +8317,6 @@ ciano
 ciara
 cibel
 cibele
-Cibele
 cibeli
 cibelle
 cibelly
@@ -8689,7 +8455,6 @@ cileda
 cileia
 cileide
 cilene
-Cilene
 cileni
 cileno
 cilesia
@@ -8769,7 +8534,6 @@ ciniro
 cinobelino
 cinomar
 cinthia
-Cinthia
 cinthya
 cintia
 cintian
@@ -8858,7 +8622,6 @@ cirne
 cirnei
 cirneide
 ciro
-Ciro
 ciromar
 ciron
 cirone
@@ -8960,11 +8723,9 @@ claimar
 claimir
 clainton
 clair
-Clair
 claira
 clairce
 claire
-Claire
 claires
 clairi
 clairo
@@ -9003,7 +8764,6 @@ claodete
 claodinei
 claonice
 clara
-Clara
 claraci
 claraide
 claraides
@@ -9033,7 +8793,6 @@ clariano
 claribel
 clarica
 clarice
-Clarice
 claricea
 clariceia
 clarici
@@ -9077,9 +8836,7 @@ clarismundo
 clarisneide
 clarison
 clarissa
-Clarissa
 clarisse
-Clarisse
 clarissi
 clarissia
 clarisson
@@ -9236,11 +8993,9 @@ claudesio
 claudeson
 claudesson
 claudete
-Claudete
 claudeth
 claudeti
 claudette
-Claudette
 claudeva
 claudeval
 claudevaldo
@@ -9670,7 +9425,6 @@ cleid
 cleida
 cleidane
 cleide
-Cleide
 cleideana
 cleideane
 cleidejane
@@ -10262,7 +10016,6 @@ cleurice
 cleurismar
 cleus
 cleusa
-Cleusa
 cleusane
 cleusani
 cleusdete
@@ -10352,7 +10105,7 @@ cleyson
 cleyton
 clezia
 clezio
-Célia
+cï¿½lia
 clibas
 clicelia
 cliceria
@@ -10375,7 +10128,7 @@ climenes
 climenia
 climeria
 climerio
-Céline
+cï¿½line
 clineo
 clineu
 clinger
@@ -10384,7 +10137,7 @@ clint
 clintia
 clinto
 clinton
-Célio
+cï¿½lio
 clisciane
 clisia
 clislaine
@@ -10410,8 +10163,8 @@ clivian
 clivio
 clivis
 clizeide
-Clélia
-Cloé
+clï¿½lia
+cloï¿½
 cloacir
 clober
 clodair
@@ -10473,11 +10226,8 @@ clotario
 clothilde
 clotides
 clotilda
-Clotilda
 clotilde
-Clotilde
 clotildes
-Clotildes
 clotildo
 clotiude
 cloude
@@ -10491,14 +10241,14 @@ clovisnei
 clovison
 clovisson
 cludia
-Cláudia
+clï¿½udia
 cludinei
 cludio
-Cláudio
+clï¿½udio
 clusa
-Cândida
-Cândido
-Cíntia
+cï¿½ndida
+cï¿½ndido
+cï¿½ntia
 coaraci
 cobiniano
 coceicao
@@ -10516,7 +10266,7 @@ conan
 concebida
 concecao
 conceicao
-Conceição
+conceiï¿½ï¿½o
 conceisao
 concelita
 conceni
@@ -10538,7 +10288,6 @@ conegundes
 connie
 conrad
 conrado
-Conrado
 conrrado
 conseicao
 consilia
@@ -10560,11 +10309,9 @@ consuela
 consueli
 consuelita
 consuelo
-Consuelo
 copernico
 cor
 cora
-Cora
 coraci
 coracina
 coradina
@@ -10580,7 +10327,7 @@ corcino
 cordeira
 cordeiro
 cordelia
-Cordélia
+cordï¿½lia
 cordolina
 cordolino
 cordovil
@@ -10589,7 +10336,6 @@ corete
 corgesio
 cori
 corina
-Corina
 corinda
 corine
 corino
@@ -10606,7 +10352,7 @@ cornelia
 cornelio
 cornelis
 cornelius
-Cornélia
+cornï¿½lia
 corol
 corolina
 coroline
@@ -10616,7 +10362,6 @@ correntino
 corsino
 cosete
 cosette
-Cosette
 cosimo
 cosma
 cosme
@@ -10759,12 +10504,10 @@ creuma
 creunice
 creunilda
 creusa
-Creusa
 creusdete
 creusmar
 creuson
 creuza
-Creuza
 creuzanira
 creuzeli
 creuzelina
@@ -10914,7 +10657,6 @@ crissiane
 crissie
 crista
 cristal
-Cristal
 cristalia
 cristalina
 cristalino
@@ -10937,10 +10679,8 @@ cristiaine
 cristiam
 cristian
 cristiana
-Cristiana
 cristianderson
 cristiane
-Cristiane
 cristianeide
 cristiangela
 cristiani
@@ -10948,7 +10688,6 @@ cristiania
 cristianne
 cristianni
 cristiano
-Cristiano
 cristians
 cristiany
 cristiao
@@ -10974,7 +10713,6 @@ cristimar
 cristimara
 cristin
 cristina
-Cristina
 cristinaldo
 cristinalva
 cristine
@@ -11013,7 +10751,7 @@ cristovina
 cristovo
 cristovon
 cristrina
-Cristóvão
+cristï¿½vï¿½o
 cristyan
 crisvaldo
 crisvania
@@ -11038,10 +10776,10 @@ cruz
 cruzelina
 cruzelino
 crystian
-César
+cï¿½sar
 csrlos
-Cássia
-Cássio
+cï¿½ssia
+cï¿½ssio
 cursino
 curt
 curtis
@@ -11053,10 +10791,8 @@ cybelle
 cybelly
 cynara
 cynthia
-Cynthia
 cynthya
 cyntia
-Cyntia
 cyomara
 cyrillo
 cyro
@@ -11113,7 +10849,6 @@ dafine
 dafini
 dafiny
 dafne
-Dafne
 dafni
 dafny
 dag
@@ -11130,9 +10865,7 @@ dagliane
 daglie
 dagma
 dagmar
-Dagmar
 dagmara
-Dagmara
 dagmauro
 dagmo
 dagna
@@ -11152,11 +10885,9 @@ daher
 daia
 daian
 daiana
-Daiana
 daianara
 daiandra
 daiane
-Daiane
 daianes
 daiani
 daianne
@@ -11230,7 +10961,6 @@ daisse
 daisson
 daissy
 daisy
-Daisy
 daito
 daiton
 daiva
@@ -11289,7 +11019,6 @@ daliane
 dalice
 dalida
 dalila
-Dalila
 dalileia
 dalilene
 dalilia
@@ -11342,14 +11071,12 @@ daltiva
 dalto
 daltom
 dalton
-Dalton
 daltri
 daltro
 daltron
 daluana
 daluz
 dalva
-Dalva
 dalvaci
 dalvadisio
 dalvaides
@@ -11439,7 +11166,7 @@ damilson
 damilton
 damina
 daminhao
-Damião
+damiï¿½o
 damir
 damires
 damiris
@@ -11451,7 +11178,6 @@ damocles
 damon
 dan
 dana
-Dana
 danara
 danatiele
 danatieli
@@ -11498,20 +11224,15 @@ danieber
 daniedson
 danieide
 daniel
-Daniel
 daniela
-Daniela
 daniele
-Daniele
 danielee
 danielen
 danieli
 danielison
 daniell
 daniella
-Daniella
 danielle
-Danielle
 daniellen
 danielli
 danielly
@@ -11548,7 +11269,6 @@ danilla
 danille
 danillo
 danilo
-Danilo
 danilon
 danilson
 danilto
@@ -11597,7 +11317,6 @@ dant
 dantara
 dantas
 dante
-Dante
 dantes
 danthala
 danti
@@ -11627,9 +11346,7 @@ dao
 daphane
 daphine
 daphne
-Daphne
 dara
-Dara
 daraci
 daran
 darana
@@ -11639,7 +11356,6 @@ darce
 darcelino
 darceu
 darci
-Darci
 darcia
 darciana
 darciane
@@ -11690,7 +11406,6 @@ darckson
 darco
 darcon
 darcy
-Darcy
 dardane
 dardania
 dardiane
@@ -11702,7 +11417,6 @@ darfini
 dargisa
 dari
 daria
-Daria
 darialva
 darian
 dariana
@@ -11739,7 +11453,6 @@ darines
 darinho
 darinka
 dario
-Dario
 dariomar
 darion
 daris
@@ -11776,7 +11489,6 @@ darleide
 darlen
 darlena
 darlene
-Darlene
 darleni
 darleno
 darles
@@ -11917,12 +11629,10 @@ daverson
 daves
 daveson
 davi
-Davi
 davia
 daviana
 daviane
 david
-David
 davida
 davide
 davides
@@ -11968,7 +11678,6 @@ dawson
 dawton
 dax
 daya
-Daya
 dayan
 dayana
 dayane
@@ -12013,8 +11722,8 @@ dazilma
 dazinha
 dazinho
 daziza
-Débora
-Décio
+dï¿½bora
+dï¿½cio
 de
 dea
 deaci
@@ -12042,7 +11751,6 @@ deblair
 debor
 debora
 deborah
-Deborah
 debra
 debrail
 debrair
@@ -12089,7 +11797,6 @@ dedison
 dedite
 dedival
 deepak
-Deepak
 defende
 defensora
 degazito
@@ -12164,7 +11871,6 @@ deis
 deisa
 deisane
 deise
-Deise
 deiseana
 deiseane
 deiselene
@@ -12387,7 +12093,6 @@ delfi
 delfim
 delfin
 delfina
-Delfina
 delfino
 delfio
 delfo
@@ -12574,7 +12279,6 @@ demetro
 demeval
 demevaldo
 demi
-Demi
 demian
 demil
 demilda
@@ -12645,7 +12349,6 @@ deniara
 denias
 denica
 denice
-Denice
 denici
 denicio
 deniclei
@@ -12706,7 +12409,6 @@ denisa
 denisangela
 denisclei
 denise
-Denise
 denisi
 denisia
 denisiana
@@ -12862,7 +12564,7 @@ deovani
 deovania
 deovanio
 deovano
-Éder
+ï¿½der
 deraci
 derailton
 deralda
@@ -13044,7 +12746,7 @@ desimar
 desimara
 desio
 desire
-Desirée
+desirï¿½e
 desiree
 desirene
 desirre
@@ -13266,7 +12968,6 @@ deuzivan
 deuzuita
 deuzuite
 deva
-Deva
 devacir
 devailton
 devair
@@ -13315,7 +13016,6 @@ deverson
 deverton
 devesson
 devi
-Devi
 deviane
 devid
 devide
@@ -13363,7 +13063,6 @@ dezuita
 dferson
 dgmar
 dhara
-Dhara
 dheferson
 dhefeson
 dheimeson
@@ -13409,7 +13108,6 @@ diamir
 diamiro
 dian
 diana
-Diana
 dianari
 dianata
 dianatan
@@ -13419,7 +13117,6 @@ diandra
 diandria
 diandro
 diane
-Diane
 dianefer
 dianeide
 dianele
@@ -13494,7 +13191,6 @@ diega
 dieggo
 diegina
 diego
-Diego
 diegues
 dieicon
 dieimes
@@ -13717,14 +13413,13 @@ dimitrios
 dimitrius
 dimona
 dimorvan
-Diná
+dinï¿½
 dina
 dinacir
 dinael
 dinaele
 dinaeli
 dinah
-Dinah
 dinai
 dinaiara
 dinaide
@@ -13875,7 +13570,6 @@ diogini
 dioginis
 diognes
 diogo
-Diogo
 dioguina
 diojenes
 diolanda
@@ -13931,7 +13625,6 @@ dionaton
 dionatta
 dionattan
 dione
-Dione
 dionea
 dionefer
 dionei
@@ -13970,7 +13663,6 @@ dionirce
 dionis
 dionisa
 dionise
-Dionise
 dionisia
 dionisio
 dioniso
@@ -14030,7 +13722,6 @@ diovanio
 diovano
 diozete
 dipak
-Dipak
 diquison
 diraci
 diraildes
@@ -14041,7 +13732,6 @@ diraneide
 dirani
 diranice
 dirce
-Dirce
 dircea
 dirceia
 dircel
@@ -14059,7 +13749,6 @@ dircene
 dirceneia
 dirceo
 dirceu
-Dirceu
 dirci
 dircia
 dirciana
@@ -14126,7 +13815,7 @@ dislene
 disnei
 disneia
 disney
-Édison
+ï¿½dison
 disonei
 disraeli
 disseia
@@ -14164,7 +13853,6 @@ diuvania
 diuza
 diuzete
 diva
-Diva
 divaci
 divair
 dival
@@ -14256,7 +13944,6 @@ djaira
 djairo
 djakson
 djalma
-Djalma
 djalmas
 djalme
 djalmir
@@ -14277,7 +13964,6 @@ djanara
 djandir
 djandira
 djane
-Djane
 djaneide
 djanes
 djanete
@@ -14350,8 +14036,7 @@ djulie
 djulio
 djully
 djunior
-Dália
-Délia
+dï¿½lia
 dmerson
 dmilson
 dmitri
@@ -14360,7 +14045,7 @@ dnaldo
 dnalva
 dnifer
 dnilson
-Dênis
+dï¿½nis
 dnise
 do
 doacir
@@ -14408,7 +14093,6 @@ dolariza
 dolglas
 doliris
 dolores
-Dolores
 dolorice
 doloris
 dolorita
@@ -14463,7 +14147,6 @@ dominick
 dominike
 dominiky
 dominique
-Dominique
 dominiqui
 dominos
 domira
@@ -14486,7 +14169,6 @@ donara
 donaria
 donario
 donata
-Donata
 donatella
 donatil
 donatila
@@ -14544,7 +14226,6 @@ donzete
 donzila
 donzilia
 dora
-Dora
 dorace
 doraci
 doracil
@@ -14563,7 +14244,6 @@ doraldina
 doraldino
 doralia
 doralice
-Doralice
 doralici
 doralicia
 doralicio
@@ -14732,7 +14412,7 @@ dornelo
 dorneval
 dorni
 doroci
-Dorotéa
+dorotï¿½a
 dorotea
 doroteia
 doroteio
@@ -14741,9 +14421,8 @@ doroteo
 doroteu
 doroth
 dorothy
-Dorothy
 doroti
-Dorotéia
+dorotï¿½ia
 dorotides
 dorotilde
 dorotildes
@@ -14832,13 +14511,13 @@ drielly
 drielson
 driely
 driene
-Dóris
+dï¿½ris
 drisana
 drucila
 drumond
 drusila
 druval
-Édson
+ï¿½dson
 duan
 duana
 duane
@@ -14903,7 +14582,6 @@ duglas
 duilho
 duilio
 dulce
-Dulce
 dulceana
 dulceane
 dulcecleia
@@ -14944,7 +14622,7 @@ dulcimaria
 dulcimeire
 dulcimere
 dulcina
-Dulcinéa
+dulcinï¿½a
 dulcinalva
 dulcinara
 dulcinda
@@ -14952,7 +14630,6 @@ dulcine
 dulcinea
 dulcinei
 dulcineia
-Dulcineia
 dulcineide
 dulcinelia
 dulcinete
@@ -15416,7 +15093,6 @@ edflavio
 edfran
 edfrank
 edgar
-Edgar
 edgard
 edgarde
 edgardo
@@ -15941,9 +15617,7 @@ edit
 edita
 editania
 edite
-Edite
 edith
-Edith
 edithe
 editi
 edito
@@ -16168,10 +15842,8 @@ edmudo
 edmund
 edmunda
 edmundo
-Edmundo
 edmur
 edna
-Edna
 ednaci
 ednadia
 ednadja
@@ -16366,7 +16038,6 @@ eduarde
 eduardi
 eduardina
 eduardo
-Eduardo
 eduarley
 eduarlison
 eduaro
@@ -16648,7 +16319,6 @@ elaido
 elailson
 elaina
 elaine
-Elaine
 elaini
 elainy
 elair
@@ -16676,7 +16346,6 @@ elario
 elayne
 elazir
 elba
-Elba
 elbe
 elber
 elbert
@@ -16777,7 +16446,6 @@ eleneuza
 eleni
 elenias
 elenice
-Elenice
 elenici
 elenides
 elenido
@@ -16822,9 +16490,7 @@ eleonai
 eleonardo
 eleonice
 eleonor
-Eleonor
 eleonora
-Eleonora
 eleonore
 eleoteria
 eleoterio
@@ -16899,7 +16565,6 @@ eliamara
 eliame
 elian
 eliana
-Eliana
 elianai
 elianaide
 elianda
@@ -16914,7 +16579,6 @@ eliandria
 eliandro
 eliandson
 eliane
-Eliane
 elianeide
 elianes
 elianete
@@ -16937,7 +16601,6 @@ eliarda
 eliardo
 eliaria
 elias
-Elias
 eliasafe
 eliasibe
 eliasmar
@@ -17253,15 +16916,11 @@ elirene
 eliria
 elirio
 elis
-Elis
 elisa
-Elisa
 elisabet
 elisabeta
 elisabete
-Elisabete
 elisabeth
-Elisabeth
 elisabethe
 elisabeti
 elisabetta
@@ -17309,7 +16968,6 @@ eliser
 elisergio
 elisete
 eliseu
-Eliseu
 elisfran
 elisgardenia
 elisia
@@ -17447,7 +17105,6 @@ elivoneide
 eliwelton
 eliz
 eliza
-Eliza
 elizabate
 elizabeh
 elizabel
@@ -17457,9 +17114,7 @@ elizabert
 elizaberte
 elizabet
 elizabete
-Elizabete
 elizabeth
-Elizabeth
 elizabethe
 elizabethi
 elizabeti
@@ -17610,10 +17265,9 @@ elnio
 elnira
 elno
 elnora
-Eloá
+eloï¿½
 eloa
 eloah
-Eloah
 eloan
 eloana
 eloane
@@ -17669,7 +17323,7 @@ elonise
 elonita
 elora
 elosa
-Eloísa
+eloï¿½sa
 elosina
 elosman
 eloy
@@ -17689,7 +17343,6 @@ elquisson
 elrick
 elrik
 elsa
-Elsa
 elsandra
 elsangela
 elsbeth
@@ -17760,12 +17413,10 @@ elvina
 elvino
 elvio
 elvira
-Elvira
 elvirene
 elviria
 elviro
 elvis
-Elvis
 elvislei
 elvislene
 elvismar
@@ -17779,7 +17430,6 @@ elwis
 ely
 elys
 elza
-Elza
 elzabete
 elzabeth
 elzamar
@@ -17822,13 +17472,11 @@ elzina
 elzio
 elzir
 elzira
-Elzira
 elzita
 elzivani
 elzo
 elzuila
 ema
-Ema
 emaculada
 emaneo
 emannuel
@@ -17841,18 +17489,14 @@ emanoelle
 emanoelly
 emanoely
 emanuel
-Emanuel
 emanuela
-Emanuela
 emanuele
-Emanuele
 emanuelen
 emanueli
 emanuelina
 emanuell
 emanuella
 emanuelle
-Emanuelle
 emanuellen
 emanuelli
 emanuelly
@@ -17956,7 +17600,6 @@ emilsom
 emilson
 emilton
 emily
-Emily
 emilyn
 emina
 emine
@@ -17986,10 +17629,9 @@ emivaldo
 emivan
 emivania
 emizael
-Emília
-Emílio
+emï¿½lia
+emï¿½lio
 emma
-Emma
 emmanoel
 emmanuel
 emmanuelle
@@ -18301,9 +17943,7 @@ enori
 enos
 enri
 enrico
-Enrico
 enrique
-Enrique
 enriqueta
 enriqui
 enrrique
@@ -18317,7 +17957,6 @@ eny
 enza
 enzio
 enzo
-Enzo
 enzon
 enzzo
 eodete
@@ -18400,7 +18039,6 @@ erasio
 erasma
 erasmino
 erasmo
-Erasmo
 erasto
 eratostenes
 erb
@@ -18554,7 +18192,6 @@ eriberta
 eriberto
 eriberton
 eric
-Eric
 erica
 ericacia
 ericardo
@@ -19001,7 +18638,6 @@ ernestides
 ernestina
 ernestino
 ernesto
-Ernesto
 erneston
 erneto
 erni
@@ -19227,7 +18863,6 @@ esmene
 esmenia
 esmeral
 esmeralda
-Esmeralda
 esmeraldina
 esmeraldino
 esmeraldo
@@ -19255,7 +18890,7 @@ espartaco
 espedita
 espedito
 esper
-Esperança
+esperanï¿½a
 esperanca
 esperanza
 esperdiao
@@ -19331,7 +18966,6 @@ estefison
 estefson
 esteice
 estela
-Estela
 estelamar
 estelamares
 estelamari
@@ -19367,7 +19001,6 @@ estephani
 estephanie
 estephany
 ester
-Ester
 esterfane
 esterfani
 esterfania
@@ -19402,15 +19035,14 @@ estevino
 estevison
 estevita
 estevo
-Estevão
+estevï¿½o
 estevon
 estfani
-Estéfano
+estï¿½fano
 esthefane
 esthefani
 esthefany
 esther
-Esther
 estifane
 estifani
 estive
@@ -19712,8 +19344,8 @@ eugenilson
 eugenio
 eugenira
 eugina
-Eugênia
-Eugênio
+eugï¿½nia
+eugï¿½nio
 eugracia
 eujacia
 eujacio
@@ -19760,7 +19392,6 @@ eunete
 euni
 eunia
 eunice
-Eunice
 euniceia
 eunicelia
 eunici
@@ -20014,7 +19645,6 @@ euzivan
 euzivania
 euzo
 eva
-Eva
 evaci
 evaderson
 evadilson
@@ -20084,7 +19714,6 @@ evandreia
 evandri
 evandria
 evandro
-Evandro
 evandson
 evane
 evanea
@@ -20108,7 +19737,6 @@ evangeli
 evangelia
 evangelice
 evangelina
-Evangelina
 evangeline
 evangelino
 evangelio
@@ -20174,7 +19802,6 @@ evaraldo
 evarista
 evaristo
 eve
-Eve
 evecio
 eveelin
 evelaine
@@ -20189,10 +19816,8 @@ evelice
 evelim
 evelin
 evelina
-Evelina
 evelinda
 eveline
-Eveline
 eveling
 evelini
 evelinne
@@ -20213,7 +19838,6 @@ evelton
 evely
 evelym
 evelyn
-Evelyn
 evelyne
 even
 evencia
@@ -20509,12 +20133,10 @@ fabi
 fabia
 fabian
 fabiana
-Fabiana
 fabiane
 fabiani
 fabianne
 fabiano
-Fabiano
 fabiany
 fabiao
 fabiciana
@@ -20558,10 +20180,10 @@ fabius
 fablicia
 fablicio
 fabo
-Fabíola
-Fabrícia
+fabï¿½ola
+fabrï¿½cia
 fabrcio
-Fabrício
+fabrï¿½cio
 fabria
 fabriana
 fabriane
@@ -20596,7 +20218,6 @@ fabrissio
 fabriza
 fabrizia
 fabrizio
-Fabrizio
 fabrizzia
 fabrizzio
 fabson
@@ -20655,7 +20276,6 @@ fania
 fanilda
 fanklin
 fanny
-Fanny
 fanor
 fantina
 fantine
@@ -20712,14 +20332,11 @@ fauez
 fauler
 fauri
 fausta
-Fausta
 fauster
 faustiane
 faustina
-Faustina
 faustino
 fausto
-Fausto
 fauston
 fauze
 fauzi
@@ -20733,8 +20350,8 @@ favio
 favorino
 fayez
 fazio
-Fábia
-Fábio
+fï¿½bia
+fï¿½bio
 fca
 fco
 feancisco
@@ -20751,8 +20368,8 @@ fegazza
 feijo
 feipe
 feitosa
-Felícia
-Felício
+felï¿½cia
+felï¿½cio
 feleciano
 felepe
 felesmina
@@ -20785,9 +20402,7 @@ felinto
 felioe
 felip
 felipa
-Felipa
 felipe
-Felipe
 feliph
 feliphe
 feliphi
@@ -20841,7 +20456,6 @@ ferdinanda
 ferdinande
 ferdinandes
 ferdinando
-Ferdinando
 ferdnan
 ferdnando
 ferenc
@@ -20867,20 +20481,18 @@ fernana
 fernanada
 fernand
 fernanda
-Fernanda
 fernande
 fernandes
 fernandina
 fernandino
 fernando
-Fernando
 fernano
 fernao
 ferndo
 fernendo
 fernnda
 fernndo
-Fernão
+fernï¿½o
 ferrari
 ferraz
 ferreira
@@ -20929,15 +20541,12 @@ filho
 filinto
 filintro
 filipa
-Filipa
 filipe
-Filipe
 filipi
 filipina
 filippe
 filippi
 filippo
-Filippo
 filirmina
 filismina
 fillipe
@@ -20946,7 +20555,6 @@ filogenio
 filogonia
 filogonio
 filomena
-Filomena
 filomenia
 filomeno
 filonila
@@ -20955,7 +20563,6 @@ fineia
 fineias
 finelon
 fiona
-Fiona
 fioravante
 fiorela
 fiorella
@@ -21072,13 +20679,11 @@ fleori
 fleuri
 flivia
 flivio
-Félix
+fï¿½lix
 flodoaldo
 floduardo
 flor
-Flor
 flora
-Flora
 floraci
 floracir
 floralice
@@ -21212,9 +20817,9 @@ flugencio
 flutuosa
 fluvia
 fluvio
-Flávia
+flï¿½via
 flviano
-Flávio
+flï¿½vio
 foad
 fonsina
 fontes
@@ -21265,7 +20870,6 @@ framarion
 fran
 franc
 franca
-Franca
 francarla
 francarlos
 franccesco
@@ -21309,11 +20913,8 @@ francerlandio
 francerlane
 francerli
 frances
-Frances
 francesca
-Francesca
 francesco
-Francesco
 franceslaine
 francesli
 francete
@@ -21508,7 +21109,6 @@ francinaudo
 francinaura
 francinco
 francine
-Francine
 francinea
 francinei
 francineia
@@ -21584,13 +21184,11 @@ francirlete
 francirnei
 francirose
 francis
-Francis
 francisa
 francisaca
 francisberto
 francisc
 francisca
-Francisca
 franciscana
 franciscano
 franciscarla
@@ -21602,7 +21200,6 @@ francisclei
 franciscleia
 franciscleide
 francisco
-Francisco
 franciscode
 franciscus
 francisdalva
@@ -21730,7 +21327,7 @@ frankslene
 franksley
 frankson
 franksuel
-Françoise
+franï¿½oise
 franq
 franque
 franquelina
@@ -21813,7 +21410,6 @@ frederica
 frederich
 frederick
 frederico
-Frederico
 frederique
 frederson
 fredes
@@ -21846,7 +21442,6 @@ fresia
 freud
 freya
 frida
-Frida
 fridalina
 frideberto
 fridolin
@@ -21868,7 +21463,7 @@ frozina
 frsncisco
 frutuosa
 frutuoso
-Fátima
+fï¿½tima
 fuad
 fued
 fugencio
@@ -21904,18 +21499,13 @@ gabriane
 gabrie
 gabriea
 gabriel
-Gabriel
 gabriela
-Gabriela
 gabriele
-Gabriele
 gabrielen
 gabrieli
 gabriell
 gabriella
-Gabriella
 gabrielle
-Gabrielle
 gabriellen
 gabrielli
 gabrielly
@@ -21938,7 +21528,6 @@ gadiel
 gael
 gaetana
 gaetano
-Gaetano
 gagriel
 gaia
 galba
@@ -21954,7 +21543,6 @@ galvino
 gamaliel
 gamaniel
 ganesh
-Ganesh
 garabed
 garalda
 garaldo
@@ -21986,7 +21574,7 @@ gasparino
 gastao
 gaston
 gastone
-Ágata
+ï¿½gata
 gaudencio
 gaudino
 gaudio
@@ -22498,7 +22086,6 @@ genivia
 genivon
 genizete
 genji
-Genji
 gennifer
 genny
 genoci
@@ -22593,7 +22180,6 @@ geordano
 geordelina
 georg
 george
-George
 georgea
 georgeana
 georgeane
@@ -22608,13 +22194,10 @@ georgeton
 georgette
 georgi
 georgia
-Georgia
 georgiana
-Georgiana
 georgiane
 georgiano
 georgina
-Georgina
 georgines
 georginete
 georginia
@@ -22691,14 +22274,12 @@ geralcina
 geralcino
 gerald
 geralda
-Geralda
 geraldete
 geraldi
 geraldina
 geraldine
 geraldino
 geraldo
-Geraldo
 geralmino
 geralsina
 geramilton
@@ -22903,7 +22484,6 @@ germani
 germania
 germanio
 germano
-Germano
 germara
 germaria
 germario
@@ -23020,9 +22600,7 @@ gerta
 gerti
 gertrud
 gertrude
-Gertrude
 gertrudes
-Gertrudes
 gertudes
 gertulio
 gerucia
@@ -23058,7 +22636,7 @@ gervina
 gervino
 gervison
 gerviz
-Gervásio
+gervï¿½sio
 gesa
 gesandra
 gesandro
@@ -23232,7 +22810,6 @@ giana
 giancarla
 giancarllo
 giancarlo
-Giancarlo
 giancarlos
 gianderson
 giandra
@@ -23361,7 +22938,6 @@ gilberti
 gilbertina
 gilbertino
 gilberto
-Gilberto
 gilberton
 gilberval
 gilbervania
@@ -23440,7 +23016,6 @@ gilcleiton
 gilclesia
 gilclesio
 gilda
-Gilda
 gildaci
 gildacio
 gildaia
@@ -23604,9 +23179,7 @@ gilmaira
 gilmaisa
 gilman
 gilmar
-Gilmar
 gilmara
-Gilmara
 gilmarcia
 gilmarcio
 gilmarco
@@ -23702,7 +23275,6 @@ gilso
 gilsom
 gilsomar
 gilson
-Gilson
 gilsone
 gilsonei
 gilsoneide
@@ -23793,7 +23365,6 @@ gimene
 gimenes
 giminiano
 gina
-Gina
 ginair
 ginalda
 ginaldo
@@ -23829,7 +23400,6 @@ ginuino
 gioberto
 gioclecio
 gioconda
-Gioconda
 giocondo
 giodete
 giogenes
@@ -23857,7 +23427,6 @@ giorgiana
 giorgiane
 giorgina
 giorgio
-Giorgio
 giorlan
 giorlando
 giosepe
@@ -23866,7 +23435,6 @@ gioval
 giovaldo
 giovan
 giovana
-Giovana
 giovanda
 giovander
 giovando
@@ -23885,10 +23453,8 @@ giovanina
 giovanio
 giovanka
 giovanna
-Giovanna
 giovanne
 giovanni
-Giovanni
 giovanny
 giovano
 giovany
@@ -23960,12 +23526,9 @@ giscard
 giscele
 giscelia
 gisela
-Gisela
 giselda
-Giselda
 giseldo
 gisele
-Gisele
 giselea
 giselen
 giselha
@@ -23974,9 +23537,7 @@ giselia
 giselie
 giselio
 gisella
-Gisella
 giselle
-Giselle
 giselli
 giselly
 giselma
@@ -24060,7 +23621,6 @@ gisvaldo
 gisvania
 giszele
 gita
-Gita
 gitana
 gitania
 giuberto
@@ -24074,7 +23634,6 @@ giudasio
 giudete
 giula
 giulia
-Giulia
 giulian
 giuliana
 giuliane
@@ -24144,7 +23703,6 @@ givoneide
 givonete
 gizela
 gizelda
-Gizelda
 gizele
 gizeli
 gizelia
@@ -24211,7 +23769,6 @@ gladston
 gladstone
 gladstoni
 gladys
-Gladys
 glafira
 glaiane
 glaice
@@ -24252,7 +23809,6 @@ glaubeson
 glauca
 glaucco
 glauce
-Glauce
 glaucea
 glauceane
 glaucemar
@@ -24300,7 +23856,6 @@ glaucius
 glaucivan
 glaucivania
 glauco
-Glauco
 glaucon
 glaucos
 glaucus
@@ -24358,7 +23913,7 @@ glazieli
 glazielle
 glazielly
 glberto
-Gládis
+glï¿½dis
 gleber
 gleberson
 gleberton
@@ -24535,7 +24090,6 @@ glemisson
 glena
 glenan
 glenda
-Glenda
 glender
 glenderson
 glendo
@@ -24632,10 +24186,10 @@ glorita
 glorivaldo
 glotilde
 gloves
-Glória
-Gláuber
+glï¿½ria
+glï¿½uber
 glucia
-Gláucia
+glï¿½ucia
 godiva
 godofredo
 godolfredo
@@ -24653,7 +24207,7 @@ gomercindo
 gomercino
 gomes
 gomides
-Gonçalo
+gonï¿½alo
 goncal
 goncala
 goncales
@@ -24672,7 +24226,6 @@ gontran
 gonzaga
 gonzales
 gonzalo
-Gonzalo
 gordiano
 gorete
 goreth
@@ -24694,7 +24247,7 @@ gottfried
 gouglas
 goulart
 govana
-Graça
+graï¿½a
 grabiel
 grabiela
 grabiele
@@ -24707,7 +24260,6 @@ grabrielly
 graca
 gracas
 grace
-Grace
 graceane
 gracekelly
 graceline
@@ -24843,7 +24395,6 @@ graziani
 graziano
 graziel
 graziela
-Graziela
 graziele
 grazielen
 grazieli
@@ -24881,11 +24432,10 @@ gregoria
 gregorina
 gregorio
 gregory
-Gregório
+gregï¿½rio
 gregson
 greica
 greice
-Greice
 greiceane
 greicekelly
 greicemara
@@ -24934,9 +24484,7 @@ grenio
 gresiane
 gressi
 greta
-Greta
 gretchen
-Gretchen
 grete
 gretel
 greth
@@ -24984,7 +24532,7 @@ grislene
 grismar
 grivaldo
 grover
-Gérson
+gï¿½rson
 gsbriel
 guaciara
 guacira
@@ -25046,7 +24594,6 @@ guilherma
 guilhermando
 guilhermano
 guilherme
-Guilherme
 guilhermes
 guilhermi
 guilhermina
@@ -25074,7 +24621,6 @@ guinevere
 guiniver
 guinter
 guiomar
-Guiomar
 guiomarina
 guiomarino
 guipson
@@ -25084,7 +24630,7 @@ gulia
 guliver
 gullit
 gulliver
-Guálter
+guï¿½lter
 gumercina
 gumercinda
 gumercindo
@@ -25093,7 +24639,6 @@ gunnar
 guntemberg
 gunter
 gunther
-Gunther
 gurgel
 gusavo
 gusmao
@@ -25104,7 +24649,6 @@ gustavi
 gustavina
 gustavio
 gustavo
-Gustavo
 gusthavo
 gustovo
 gusttavo
@@ -25132,21 +24676,20 @@ gylsa
 gyovana
 gyovanna
 gyselle
-Gyselle
 habacuque
 hadassa
 hadi
 hadija
 hadrian
-Hadrián
+hadriï¿½n
 hae
 hagata
 hagop
 haiane
 haianna
-Haidê
+haidï¿½
 haide
-Haideé
+haideï¿½
 haidee
 haidi
 haifa
@@ -25161,7 +24704,6 @@ halan
 halana
 haley
 halima
-Halima
 haline
 halison
 halisson
@@ -25176,7 +24718,6 @@ hamid
 hamilto
 hamiltom
 hamilton
-Hamilton
 hamlet
 hamurabi
 hana
@@ -25188,7 +24729,6 @@ haniel
 hanin
 hanna
 hannah
-Hannah
 hanry
 hans
 hansen
@@ -25234,7 +24774,7 @@ hayane
 hayani
 hayat
 hayato
-Haydê
+haydï¿½
 hayde
 haydee
 hayden
@@ -25243,7 +24783,6 @@ hayla
 haylla
 heather
 hebe
-Hebe
 heber
 heberson
 hebert
@@ -25257,7 +24796,6 @@ hebron
 heckel
 hecton
 hector
-Hector
 heculano
 hed
 heder
@@ -25271,12 +24809,10 @@ hegel
 heide
 heider
 heidi
-Heidi
 heidy
 heinrich
 heinz
 heitor
-Heitor
 heittor
 helaine
 helaman
@@ -25293,11 +24829,9 @@ heldo
 helem
 helen
 helena
-Helena
 helene
 heleni
 helenice
-Helenice
 helenilda
 helenildo
 helenilson
@@ -25309,7 +24843,6 @@ helenita
 heleno
 helenton
 helga
-Helga
 helho
 heli
 helia
@@ -25357,7 +24890,7 @@ heloisio
 heloiza
 heloize
 helon
-Heloísa
+heloï¿½sa
 heloysa
 helrison
 helsio
@@ -25399,15 +24932,12 @@ henrike
 henriky
 henrinque
 henrique
-Henrique
 henriques
 henriqueta
-Henriqueta
 henriqui
 henrque
 henrrique
 henry
-Henry
 henzo
 heracles
 heraclio
@@ -25434,7 +24964,6 @@ hercio
 hercoles
 herculana
 herculano
-Herculano
 hercule
 hercules
 herculino
@@ -25578,13 +25107,11 @@ hilary
 hilbert
 hilberto
 hilda
-Hilda
 hildeberto
 hildebranda
 hildebrando
 hildegar
 hildegard
-Hildegard
 hildegarda
 hildegarde
 hildegardes
@@ -25647,7 +25174,7 @@ hitomi
 hitoshi
 hiuri
 hiury
-Hélio
+hï¿½lio
 hmenon
 hobert
 hoffman
@@ -25660,7 +25187,6 @@ holger
 homem
 homer
 homero
-Homero
 honofre
 honor
 honorata
@@ -25673,9 +25199,8 @@ honorio
 hoover
 horacia
 horacio
-Horácio
+horï¿½cio
 horishi
-Horishi
 horizonte
 horizontina
 horizontino
@@ -25687,7 +25212,7 @@ hortenca
 hortencia
 hortencio
 hortensia
-Hortênsia
+hortï¿½nsia
 horus
 hosana
 hosano
@@ -25716,7 +25241,6 @@ hug
 huggo
 hugney
 hugo
-Hugo
 hugolino
 hugomar
 hugor
@@ -25732,7 +25256,6 @@ humberta
 humbertina
 humbertino
 humberto
-Humberto
 humberton
 humerto
 humphrey
@@ -25822,7 +25345,6 @@ iaponan
 iaponira
 iapunira
 iara
-Iara
 iaraci
 iaramar
 iarani
@@ -25948,7 +25470,6 @@ idalicio
 idalides
 idalila
 idalina
-Idalina
 idalinda
 idaline
 idalino
@@ -26227,14 +25748,13 @@ idvaldo
 idvan
 idvania
 ieda
-Ieda
 iede
 iedes
 iedja
 iedna
 iedo
 iego
-Iemanjá
+iemanjï¿½
 iemanja
 iena
 iene
@@ -26278,7 +25798,7 @@ igna
 ignacia
 ignacio
 ignaldo
-Ignácio
+ignï¿½cio
 igneis
 igner
 ignes
@@ -26288,7 +25808,6 @@ igo
 igomar
 igon
 igor
-Igor
 igorete
 igra
 igraine
@@ -26393,7 +25912,6 @@ ilona
 ilone
 iloni
 ilsa
-Ilsa
 ilsamar
 ilsara
 ilse
@@ -26513,7 +26031,7 @@ inaura
 inauro
 inca
 incarnacao
-Inácio
+inï¿½cio
 inda
 indaia
 indaiana
@@ -26553,7 +26071,6 @@ indo
 indolacao
 indomar
 indra
-Indra
 indria
 indrid
 inea
@@ -26588,7 +26105,6 @@ ineu
 ineuda
 ineusa
 inez
-Inez
 inezilda
 inezita
 infancia
@@ -26638,7 +26154,6 @@ ingreti
 ingri
 ingria
 ingrid
-Ingrid
 ingridd
 ingride
 ingrides
@@ -26677,7 +26192,7 @@ inomar
 inoque
 inori
 inri
-Inês
+inï¿½s
 inti
 inubia
 inucencia
@@ -26693,7 +26208,6 @@ iohany
 iohara
 ioko
 iolanda
-Iolanda
 iolando
 iole
 iolene
@@ -26706,7 +26220,7 @@ iomar
 iomara
 iomaria
 ion
-Ioná
+ionï¿½
 iona
 ionaide
 ionaira
@@ -26719,7 +26233,6 @@ ionas
 ionatan
 iondina
 ione
-Ione
 ionece
 ioneda
 ionede
@@ -26789,7 +26302,6 @@ iracelis
 iracelma
 iracelmo
 iracema
-Iracema
 iraceme
 iracemi
 iracemo
@@ -26987,7 +26499,6 @@ irenaide
 irenaldo
 irenalva
 irene
-Irene
 ireneia
 ireneide
 ireneo
@@ -27051,7 +26562,6 @@ iriete
 irilene
 irimar
 irina
-Irina
 irinalda
 irinaldo
 irinalva
@@ -27241,27 +26751,20 @@ irwin
 irwing
 irza
 isa
-Isa
 isaac
-Isaac
 isaak
 isaaque
-Isaías
+isaï¿½as
 isabel
-Isabel
 isabela
-Isabela
 isabele
-Isabele
 isabeli
 isabelina
 isabelino
 isabelita
 isabell
 isabella
-Isabella
 isabelle
-Isabelle
 isabelli
 isabelly
 isabely
@@ -27275,7 +26778,6 @@ isacio
 isack
 isadir
 isadora
-Isadora
 isadore
 isadra
 isael
@@ -27354,7 +26856,6 @@ isaudo
 isaulina
 isaulino
 isaura
-Isaura
 isauri
 isauria
 isaurina
@@ -27378,11 +26879,9 @@ isi
 isiane
 isidio
 isidora
-Isidora
 isidoria
 isidorio
 isidoro
-Isidoro
 isidro
 isilda
 isildinha
@@ -27430,7 +26929,6 @@ isllane
 isllany
 islon
 ismael
-Ismael
 ismaela
 ismaele
 ismaeli
@@ -27529,7 +27027,6 @@ isorete
 isouda
 ispedito
 israel
-Israel
 israela
 israele
 israelen
@@ -27663,7 +27160,6 @@ italucia
 italva
 itama
 itamar
-Itamar
 itamara
 itamarcia
 itamarcio
@@ -27763,7 +27259,6 @@ iura
 iure
 iures
 iuri
-Iuri
 iuria
 iuris
 iuro
@@ -27771,7 +27266,7 @@ iury
 iusley
 iuvania
 iuza
-Ivã
+ivï¿½
 iva
 ivaci
 ivacilda
@@ -27820,7 +27315,6 @@ ivameire
 ivamilton
 ivamir
 ivan
-Ivan
 ivana
 ivanaide
 ivanaldo
@@ -27987,10 +27481,8 @@ ivesson
 ivet
 iveta
 ivete
-Ivete
 iveti
 ivette
-Ivette
 ivetti
 ivi
 ivia
@@ -28016,7 +27508,6 @@ ivna
 ivne
 ivni
 ivo
-Ivo
 ivoir
 ivoleda
 ivoleide
@@ -28032,7 +27523,6 @@ ivonaldo
 ivonara
 ivonaria
 ivone
-Ivone
 ivonea
 ivoneci
 ivonei
@@ -28077,7 +27567,6 @@ ivonita
 ivoniza
 ivonizete
 ivonne
-Ivonne
 ivonte
 ivony
 ivor
@@ -28097,7 +27586,6 @@ iza
 izaac
 izabel
 izabela
-Izabela
 izabele
 izabeli
 izabella
@@ -28248,7 +27736,7 @@ jabio
 jabis
 jabs
 jabson
-Jacó
+jacï¿½
 jacana
 jacanan
 jacauna
@@ -28271,7 +27759,6 @@ jacheline
 jachison
 jachson
 jaci
-Jaci
 jacia
 jaciana
 jaciane
@@ -28354,7 +27841,6 @@ jacioni
 jaciquele
 jacir
 jacira
-Jacira
 jaciran
 jacirema
 jacirena
@@ -28404,7 +27890,6 @@ jaclecio
 jacline
 jaco
 jacob
-Jacob
 jacobe
 jacobina
 jacobson
@@ -28422,11 +27907,9 @@ jacquelane
 jacquelene
 jacquelina
 jacqueline
-Jacqueline
 jacquelini
 jacquelline
 jacques
-Jacques
 jacqueson
 jacquison
 jacsandro
@@ -28438,18 +27921,15 @@ jacsson
 jacsuel
 jacton
 jacy
-Jacy
 jacyara
 jacymar
 jacyr
 jacyra
-Jacyra
 jad
 jadaias
 jadde
 jaddy
 jade
-Jade
 jadean
 jadeane
 jadeilda
@@ -28615,7 +28095,6 @@ jailza
 jaima
 jaimara
 jaime
-Jaime
 jaimerson
 jaimes
 jaimeson
@@ -28645,7 +28124,6 @@ jainy
 jaionara
 jaique
 jair
-Jair
 jaira
 jairan
 jairane
@@ -28670,7 +28148,6 @@ jairle
 jairlene
 jairlon
 jairo
-Jairo
 jairon
 jairso
 jairson
@@ -28754,7 +28231,6 @@ jamaico
 jamaina
 jamaira
 jamal
-Jamal
 jamar
 jamara
 jamari
@@ -28773,9 +28249,7 @@ jamice
 jamichel
 jamie
 jamil
-Jamil
 jamila
-Jamila
 jamilca
 jamilda
 jamilde
@@ -28867,7 +28341,7 @@ janaise
 janaita
 janalia
 janaline
-Janaína
+janaï¿½na
 janandra
 janane
 janara
@@ -28952,9 +28426,7 @@ jandineia
 jandineide
 jandinete
 jandir
-Jandir
 jandira
-Jandira
 jandirene
 jandirlei
 jandirlene
@@ -28985,11 +28457,8 @@ jandson
 jandui
 janduir
 jandyr
-Jandyr
 jandyra
-Jandyra
 jane
-Jane
 janea
 janeana
 janecarla
@@ -29042,7 +28511,6 @@ janesson
 janet
 janeta
 janete
-Janete
 janeth
 janeti
 janeton
@@ -29059,7 +28527,6 @@ janiaria
 janica
 janicarla
 janice
-Janice
 janiceia
 janicelia
 janicelio
@@ -29232,7 +28699,6 @@ jaquelice
 jaquelile
 jaquelina
 jaqueline
-Jaqueline
 jaquelini
 jaquelino
 jaquelline
@@ -29470,13 +28936,9 @@ jasme
 jasmelino
 jasmile
 jasmim
-Jasmim
 jasmin
-Jasmin
 jasmina
-Jasmina
 jasmine
-Jasmine
 jasmini
 jasminor
 jasmir
@@ -29569,7 +29031,6 @@ jeam
 jeamerson
 jeames
 jean
-Jean
 jeana
 jeancarla
 jeancarlo
@@ -29665,7 +29126,6 @@ jefetson
 jeff
 jeffersom
 jefferson
-Jefferson
 jeffersson
 jeffery
 jeffeson
@@ -29748,14 +29208,12 @@ jenesio
 jenete
 jenezio
 jeni
-Jeni
 jenice
 jeniel
 jenif
 jenifa
 jenife
 jenifer
-Jenifer
 jeniffer
 jenilda
 jenildo
@@ -29776,10 +29234,8 @@ jenner
 jennfer
 jennie
 jennifer
-Jennifer
 jenniffer
 jenny
-Jenny
 jennyfer
 jenoveva
 jens
@@ -29824,7 +29280,6 @@ jercina
 jercino
 jerdeson
 jeremias
-Jeremias
 jeremy
 jerfenson
 jerferson
@@ -29925,7 +29380,7 @@ jessiara
 jessias
 jessic
 jessica
-jÃˆssica
+jÃ¨ssica
 jessicarla
 jessicka
 jessicleia
@@ -30110,7 +29565,6 @@ jilvanete
 jilvania
 jimmy
 jin
-Jin
 jinaldo
 jion
 jionatan
@@ -30142,10 +29596,10 @@ jivaldo
 jivanilda
 jivanildo
 jivanilson
-Júlia
-Júlio
-Jônatas
-Júnior
+jï¿½lia
+jï¿½lio
+jï¿½natas
+jï¿½nior
 jo
 joa
 joab
@@ -30206,7 +29660,6 @@ joamilson
 joamir
 joan
 joana
-Joana
 joanaci
 joanadarc
 joanaina
@@ -30281,7 +29734,6 @@ joanita
 joanito
 joaniza
 joanna
-Joanna
 joanne
 joanzinho
 joao
@@ -30295,10 +29747,8 @@ joaqim
 joaquem
 joaqui
 joaquim
-Joaquim
 joaquin
 joaquina
-Joaquina
 joaqum
 joara
 joardson
@@ -30623,7 +30073,6 @@ joeferson
 joefson
 joege
 joel
-Joel
 joelci
 joelcio
 joelco
@@ -30650,7 +30099,6 @@ joelita
 joelito
 joeliton
 joelle
-Joelle
 joelliton
 joelma
 joelmir
@@ -30922,12 +30370,10 @@ jonara
 jonaria
 jonario
 jonas
-Jonas
 jonata
 jonatah
 jonatam
 jonatan
-Jonatan
 jonatans
 jonatas
 jonates
@@ -30935,7 +30381,6 @@ jonath
 jonatha
 jonatham
 jonathan
-Jonathan
 jonathans
 jonathas
 jonathn
@@ -31024,7 +30469,7 @@ jontas
 jonthan
 jony
 joo
-João
+joï¿½o
 jopson
 joquebed
 joquebede
@@ -31068,7 +30513,6 @@ jordaci
 jordam
 jordan
 jordana
-Jordana
 jordane
 jordani
 jordania
@@ -31118,7 +30562,7 @@ jordinei
 jordino
 jordison
 jordita
-Jordão
+jordï¿½o
 jordon
 jordson
 jordy
@@ -31130,7 +30574,6 @@ joreni
 jorenilson
 jores
 jorge
-Jorge
 jorgea
 jorgean
 jorgeana
@@ -31243,7 +30686,7 @@ jorvan
 jorvina
 jorvino
 jos
-José
+josï¿½
 josa
 josabel
 josabete
@@ -31364,7 +30807,6 @@ josefe
 josefer
 josefi
 josefina
-Josefina
 josefine
 josefino
 josefira
@@ -31541,7 +30983,6 @@ joseph
 josepha
 josephina
 josephine
-Josephine
 joseppe
 josequias
 joser
@@ -31610,7 +31051,6 @@ josiany
 josiara
 josiaria
 josias
-Josias
 josibel
 josiberg
 josiberto
@@ -32038,7 +31478,6 @@ jovita
 jovito
 jowilson
 joy
-Joy
 joyce
 joyci
 joyciane
@@ -32063,7 +31502,7 @@ jozivaldo
 jozue
 jr
 jse
-Jéssica
+jï¿½ssica
 jua
 juacema
 juaci
@@ -32093,7 +31532,6 @@ juaran
 juareis
 juares
 juarez
-Juarez
 juareza
 juari
 juarina
@@ -32372,9 +31810,7 @@ judison
 judisson
 judit
 judite
-Judite
 judith
-Judith
 judithe
 juditi
 judival
@@ -32416,7 +31852,6 @@ juliaine
 juliama
 julian
 juliana
-Juliana
 juliander
 julianderson
 juliandra
@@ -32430,7 +31865,6 @@ juliania
 julianna
 julianne
 juliano
-Juliano
 juliany
 juliao
 juliara
@@ -32472,7 +31906,6 @@ juliermes
 juliesse
 juliet
 julieta
-Julieta
 juliete
 julieti
 juliett
@@ -32843,7 +32276,6 @@ jussane
 jussani
 jussania
 jussara
-Jussara
 jussaria
 jussario
 jussaro
@@ -32899,13 +32331,11 @@ justimar
 justimiano
 justin
 justina
-Justina
 justine
 justini
 justiniana
 justiniano
 justino
-Justino
 justo
 jusue
 jutaci
@@ -33051,7 +32481,6 @@ kaike
 kaiki
 kaiky
 kaila
-Kaila
 kailaine
 kailan
 kailana
@@ -33067,7 +32496,6 @@ kainan
 kainara
 kaine
 kaio
-Kaio
 kaionara
 kaiq
 kaique
@@ -33112,9 +32540,7 @@ kalidja
 kaliel
 kaligia
 kalil
-Kalil
 kalila
-Kalila
 kalina
 kalindi
 kaline
@@ -33171,7 +32597,6 @@ kaon
 kaone
 kaoni
 kaori
-Kaori
 kaoru
 kaprilla
 karan
@@ -33180,7 +32605,6 @@ kare
 kareen
 karem
 karen
-Karen
 karena
 karene
 karenina
@@ -33201,15 +32625,12 @@ karielly
 karien
 kariene
 karim
-Karim
 karima
 karime
 karimy
 karin
 karina
-Karina
 karine
-Karine
 karinele
 karini
 karinna
@@ -33229,7 +32650,6 @@ kariton
 karitta
 karl
 karla
-Karla
 karlanno
 karleane
 karlene
@@ -33245,7 +32665,6 @@ karolayne
 karolin
 karolina
 karoline
-Karoline
 karolini
 karolinne
 karoliny
@@ -33280,7 +32699,6 @@ katarine
 katariny
 katcilene
 kate
-Kate
 katea
 kateane
 katelen
@@ -33288,11 +32706,9 @@ katelin
 kateline
 kateri
 katerine
-Katerine
 katerini
 kath
 katharina
-Katharina
 katharine
 katheen
 kathelen
@@ -33303,7 +32719,6 @@ kathelyn
 kathen
 katherin
 katherine
-Katherine
 kathia
 kathleen
 kathlen
@@ -33402,7 +32817,6 @@ katucia
 katury
 katy
 katya
-Katya
 kau
 kaua
 kauai
@@ -33510,9 +32924,7 @@ keider
 keidson
 keiji
 keiko
-Keiko
 keila
-Keila
 keilane
 keile
 keiliane
@@ -33534,7 +32946,6 @@ keisy
 keite
 keiteane
 keith
-Keith
 keiti
 keitiana
 keitiane
@@ -33608,7 +33019,6 @@ kellven
 kellvin
 kellvy
 kelly
-Kelly
 kellyana
 kellyane
 kellyda
@@ -33647,7 +33057,6 @@ kelvia
 kelviane
 kelvim
 kelvin
-Kelvin
 kelvini
 kelvio
 kelvis
@@ -34017,7 +33426,6 @@ kezi
 kezia
 kezzia
 khalil
-Khalil
 kharina
 kian
 kiane
@@ -34037,7 +33445,6 @@ kilma
 kilson
 kilvia
 kim
-Kim
 kimbelly
 kimbely
 kimber
@@ -34053,7 +33460,6 @@ kimiko
 kimili
 kimilly
 kin
-Kin
 kinberli
 kinberlin
 kinberly
@@ -34154,11 +33560,10 @@ krislaine
 krisllen
 krisna
 kristal
-Kristal
 kristian
-Késia
-Kássia
-Kátia
+kï¿½sia
+kï¿½ssia
+kï¿½tia
 ktlin
 kua
 kuan
@@ -34176,11 +33581,10 @@ kwan
 kwang
 kyara
 kyoko
-Kyoko
 kyonara
 kyoshi
 kyung
-Léa
+lï¿½a
 labele
 labib
 labibe
@@ -34272,7 +33676,6 @@ laerso
 laerson
 laert
 laerte
-Laerte
 laertes
 laerti
 laerton
@@ -34315,9 +33718,7 @@ laiene
 laieny
 laiete
 laila
-Laila
 lailah
-Lailah
 lailane
 lailce
 lailson
@@ -34410,7 +33811,6 @@ lamonier
 lamuel
 lamunier
 lana
-Lana
 lanah
 lanai
 lanaia
@@ -34460,7 +33860,6 @@ laodiceia
 laone
 laoni
 lara
-Lara
 larah
 laraiane
 laralice
@@ -34468,7 +33867,7 @@ laraline
 larazo
 larci
 larcio
-Laércio
+laï¿½rcio
 lardson
 laren
 larena
@@ -34494,13 +33893,11 @@ larinaldo
 larindo
 larine
 larisa
-Larisa
 larise
 larisi
 larisia
 larison
 larissa
-Larissa
 larisse
 larissia
 larisson
@@ -34522,8 +33919,8 @@ larson
 larsson
 larusca
 laryssa
-Laís
-Laísa
+laï¿½s
+laï¿½sa
 lasalete
 lasara
 lasaro
@@ -34537,13 +33934,10 @@ lastenia
 lastenio
 laszlo
 lateefah
-Lateefah
 latif
 latifa
-Latifa
 latife
 latiffa
-Latiffa
 latoia
 lau
 laua
@@ -34696,7 +34090,6 @@ laune
 launi
 launice
 laura
-Laura
 lauraci
 lauralice
 laurana
@@ -34838,7 +34231,6 @@ lauriza
 laurizete
 laurizia
 lauro
-Lauro
 lauryn
 lauryvone
 lausane
@@ -34876,7 +34268,7 @@ lavinie
 lavinio
 lavino
 lavinya
-Lavínia
+lavï¿½nia
 lavnis
 lavoisier
 lavosier
@@ -34894,7 +34286,6 @@ layanne
 layara
 layde
 layla
-Layla
 laylla
 layna
 laynara
@@ -34926,9 +34317,9 @@ lazira
 lazo
 lazoro
 lazzaro
-Lúcia
-Lúcio
-Lídia
+lï¿½cia
+lï¿½cio
+lï¿½dia
 lea
 leacir
 leadir
@@ -34951,7 +34342,6 @@ leandeson
 leando
 leandr
 leandra
-Leandra
 leandres
 leandreson
 leandresson
@@ -34959,7 +34349,6 @@ leandria
 leandrina
 leandrino
 leandro
-Leandro
 leandson
 leane
 leanes
@@ -35015,7 +34404,6 @@ lecticia
 lecy
 led
 leda
-Leda
 ledaiana
 ledamar
 ledamir
@@ -35160,9 +34548,7 @@ leidvania
 leidy
 leiko
 leila
-Leila
 leilah
-Leilah
 leilaine
 leilamar
 leilane
@@ -35263,7 +34649,7 @@ lenicio
 lenicleide
 lenida
 lenidalva
-Leônidas
+leï¿½nidas
 lenidia
 leniele
 lenier
@@ -35323,7 +34709,6 @@ lenoir
 lenomar
 lenon
 lenora
-Lenora
 lenuzia
 leny
 leo
@@ -35437,9 +34822,7 @@ leomir
 leomira
 leomiro
 leon
-Leon
 leona
-Leona
 leonacio
 leonado
 leonaedo
@@ -35460,7 +34843,6 @@ leonarda
 leonarde
 leonardi
 leonardo
-Leonardo
 leonardson
 leonaria
 leonario
@@ -35570,9 +34952,7 @@ leonizio
 leonnardo
 leonoir
 leonor
-Leonor
 leonora
-Leonora
 leonorio
 leonoura
 leonrdo
@@ -35586,7 +34966,6 @@ leopold
 leopoldina
 leopoldino
 leopoldo
-Leopoldo
 leordina
 leordino
 leori
@@ -35682,7 +35061,7 @@ leston
 letacio
 letania
 letcia
-Letícia
+letï¿½cia
 letecia
 lethicia
 leti
@@ -35708,7 +35087,6 @@ letiia
 letiscia
 letisia
 letizia
-Letizia
 leto
 letonio
 letricia
@@ -35826,12 +35204,10 @@ lezilda
 lezina
 lezinete
 lezita
-Lígia
+lï¿½gia
 li
-Li
 lia
-Léia
-Lia
+lï¿½ia
 liamar
 liamara
 liamarcia
@@ -36017,7 +35393,6 @@ liegi
 liegina
 lielson
 lien
-Lien
 liene
 lierbeth
 lierge
@@ -36037,7 +35412,6 @@ ligivania
 liiz
 lija
 lila
-Lila
 lilan
 lilandia
 lilandra
@@ -36051,12 +35425,9 @@ liliam
 liliamar
 liliamara
 lilian
-Lilian
 liliana
-Liliana
 liliandra
 liliane
-Liliane
 liliani
 lilianne
 liliano
@@ -36092,7 +35463,6 @@ limiro
 limoel
 lin
 lina
-Lina
 linaldo
 linalva
 linamar
@@ -36110,7 +35480,6 @@ lincom
 lincon
 linconl
 linda
-Linda
 lindaci
 lindacir
 lindacira
@@ -36308,7 +35677,6 @@ lindovanio
 lindra
 lindraci
 lindsay
-Lindsay
 lindsen
 lindsey
 lindson
@@ -36328,11 +35696,8 @@ linequer
 linesia
 linesio
 linete
-Linete
 linette
-Linette
 lineu
-Lineu
 liniane
 linica
 linick
@@ -36350,7 +35715,7 @@ lins
 linsmar
 linus
 linvaldo
-Élio
+ï¿½lio
 liobina
 liobino
 liocadia
@@ -36412,13 +35777,10 @@ lirlene
 liro
 lis
 lisa
-Lisa
 lisabete
 lisandra
-Lisandra
 lisandre
 lisandro
-Lisandro
 lisane
 lisangela
 lisania
@@ -36529,12 +35891,9 @@ livramento
 livya
 liz
 liza
-Liza
 lizabete
 lizandra
-Lizandra
 lizandro
-Lizandro
 lizane
 lizangela
 lizania
@@ -36552,7 +35911,7 @@ lizzandra
 lizziane
 lizzie
 lizzy
-Lília
+lï¿½lia
 lluan
 llucia
 lmaria
@@ -36638,7 +35997,6 @@ loivo
 loize
 loja
 lola
-Lola
 lolita
 lomanto
 lonara
@@ -36682,13 +36040,11 @@ lorela
 lorelai
 lorelaine
 lorelei
-Lorelei
 lorem
 lorema
 loremi
 loren
 lorena
-Lorena
 lorenca
 lorencina
 lorencio
@@ -36712,12 +36068,10 @@ lorentino
 lorenz
 lorenza
 lorenzo
-Lorenzo
 lorenzzo
 lores
 loresi
 loreta
-Loreta
 lorete
 loreto
 loretta
@@ -36841,7 +36195,6 @@ louraci
 lourane
 lourde
 lourdes
-Lourdes
 lourdyanna
 loureci
 loureco
@@ -36857,7 +36210,7 @@ loureni
 lourenildo
 lourenilson
 loureno
-Lourenço
+lourenï¿½o
 lourensa
 lourenso
 lourentina
@@ -36914,7 +36267,7 @@ lovete
 loyane
 lozanira
 lozinho
-Úlrica
+ï¿½lrica
 lua
 luacir
 luadir
@@ -36927,7 +36280,6 @@ luamara
 luami
 luan
 luana
-Luana
 luanara
 luanda
 luander
@@ -36965,7 +36317,6 @@ lubina
 lubna
 luc
 luca
-Luca
 lucacia
 lucacio
 lucad
@@ -36973,7 +36324,6 @@ lucan
 lucana
 lucano
 lucas
-Lucas
 lucassia
 lucca
 luccas
@@ -37021,20 +36371,17 @@ luceno
 luceria
 lucerlandia
 luci
-Luci
 lucia
 luciaine
 luciamar
 luciamara
 lucian
 luciana
-Luciana
 lucianara
 lucianderson
 luciandra
 luciandro
 luciane
-Luciane
 lucianete
 luciangela
 luciangelo
@@ -37043,7 +36390,6 @@ luciania
 lucianita
 lucianne
 luciano
-Luciano
 luciany
 luciara
 luciaria
@@ -37124,7 +36470,6 @@ lucieme
 lucien
 luciena
 luciene
-Luciene
 lucieni
 lucienio
 lucienne
@@ -37146,7 +36491,6 @@ lucijane
 lucijania
 lucikelly
 lucila
-Lucila
 lucilaide
 lucilaine
 lucilan
@@ -37352,7 +36696,6 @@ lucrenato
 lucresia
 lucresio
 lucy
-Lucy
 lucymara
 lud
 ludario
@@ -37362,7 +36705,6 @@ ludegero
 ludemar
 ludemberg
 ludemila
-Ludemila
 ludemir
 ludenir
 ludes
@@ -37410,7 +36752,6 @@ ludivina
 ludmar
 ludmara
 ludmila
-Ludmila
 ludmile
 ludmili
 ludmilia
@@ -37481,7 +36822,6 @@ luige
 luigge
 luiggi
 luigi
-Luigi
 luigina
 luigino
 luigue
@@ -37497,9 +36837,7 @@ luisa
 luise
 luismar
 luiz
-Luiz
 luiza
-Luiza
 luize
 luizete
 luizi
@@ -37521,7 +36859,6 @@ lumaria
 lumena
 lumi
 luna
-Luna
 lunaira
 lunalva
 lunamar
@@ -37558,7 +36895,6 @@ lurdene
 lurdenilde
 lurdenir
 lurdes
-Lurdes
 lurdete
 lurdevina
 lurdez
@@ -37588,8 +36924,8 @@ luriane
 luriany
 lurie
 lus
-Luís
-Luísa
+luï¿½s
+luï¿½sa
 lusandra
 lusandro
 lusanira
@@ -37702,7 +37038,6 @@ luzenite
 luzete
 luzi
 luzia
-Luzia
 luzian
 luziana
 luziandra
@@ -37806,28 +37141,25 @@ luzivanio
 luzivete
 luzmaria
 luzmarina
-Álvaro
-Lívia
-Lívio
+ï¿½lvaro
+lï¿½via
+lï¿½vio
 lya
 lyan
 lyandra
 lydia
-Lydia
 lygia
 lyncon
 lynn
-Lynn
 lyon
 lys
 lysianne
 lyvia
-Lázaro
+lï¿½zaro
 ma
 mab
 mabe
 mabel
-Mabel
 mabele
 mabelle
 mabia
@@ -37948,7 +37280,6 @@ macus
 macxuel
 mada
 madalena
-Madalena
 madaleno
 madara
 maddalena
@@ -38007,7 +37338,6 @@ maevelin
 maevi
 maevia
 mafalda
-Mafalda
 mafaldo
 mafauda
 mafisa
@@ -38021,7 +37351,6 @@ magal
 magale
 magalhaes
 magali
-Magali
 magalia
 magally
 magalona
@@ -38032,10 +37361,8 @@ magari
 magarida
 magbis
 magda
-Magda
 magdala
 magdalena
-Magdalena
 magdalene
 magdalia
 magdalva
@@ -38068,7 +37395,6 @@ magner
 magnete
 magnilson
 magno
-Magno
 magnobaldo
 magnoel
 magnogleide
@@ -38099,7 +37425,6 @@ mahatma
 maheus
 mahmoud
 maia
-Maia
 maiala
 maialu
 maiame
@@ -38113,7 +37438,6 @@ maiangela
 maiani
 maiano
 maiara
-Maiara
 maiare
 maiari
 maic
@@ -38261,7 +37585,7 @@ maissa
 maisse
 maisson
 maisy
-Maitê
+maitï¿½
 maita
 maitan
 maitana
@@ -38320,7 +37644,6 @@ mali
 maliete
 malik
 malika
-Malika
 malio
 malison
 mallone
@@ -38397,9 +37720,7 @@ mano
 manoa
 manoe
 manoel
-Manoel
 manoela
-Manoela
 manoelde
 manoele
 manoeli
@@ -38424,13 +37745,10 @@ mansur
 mantina
 mantovani
 manu
-Manu
 manua
 manucia
 manuel
-Manuel
 manuela
-Manuela
 manuele
 manueli
 manuelina
@@ -38440,12 +37758,11 @@ manuelito
 manuell
 manuella
 manuelle
-Manuelle
 manuelly
 manuely
 manuza
 maoel
-Maomé
+maomï¿½
 maome
 maqsuel
 maque
@@ -38464,8 +37781,7 @@ maquir
 maquis
 mar
 mara
-Maíra
-Mara
+maï¿½ra
 maraceli
 maracelia
 maraci
@@ -38510,12 +37826,9 @@ marceano
 marcedes
 marcejane
 marcel
-Marcel
 marcela
-Marcela
 marcelange
 marcele
-Marcele
 marcelen
 marcelena
 marcelene
@@ -38538,17 +37851,14 @@ marcelita
 marcelito
 marcell
 marcella
-Marcella
 marcelle
 marcelli
 marcellino
 marcello
-Marcello
 marcellos
 marcellus
 marcelly
 marcelo
-Marcelo
 marcelone
 marcelos
 marcelucia
@@ -38708,7 +38018,6 @@ marcleo
 marclesio
 marcleudo
 marco
-Marco
 marcoantonio
 marcoaurelio
 marcolina
@@ -38736,7 +38045,6 @@ marcony
 marcopolo
 marcorelio
 marcos
-Marcos
 marcosalem
 marcospaulo
 marcossuel
@@ -38836,12 +38144,10 @@ margaretti
 margari
 margaria
 margarida
-Margarida
 margarido
 margarina
 margarino
 margarita
-Margarita
 margarte
 margatete
 marge
@@ -38859,7 +38165,6 @@ margo
 margolene
 margon
 margot
-Margot
 margret
 margrid
 margrit
@@ -38868,7 +38173,6 @@ marguerite
 marguete
 mari
 maria
-Maria
 mariaci
 mariada
 mariadalva
@@ -38879,7 +38183,6 @@ mariado
 mariaeduarda
 mariaeunice
 mariah
-Mariah
 mariahelena
 mariajoana
 mariajose
@@ -38894,7 +38197,6 @@ mariama
 mariamelia
 marian
 mariana
-Mariana
 mariane
 marianeide
 marianela
@@ -38910,10 +38212,8 @@ marianina
 marianita
 marianna
 marianne
-Marianne
 marianny
 mariano
-Mariano
 mariany
 mariao
 mariara
@@ -39151,7 +38451,6 @@ marimilia
 marimilton
 marin
 marina
-Marina
 marinacia
 marinadia
 marinadja
@@ -39220,7 +38519,7 @@ mariney
 marinez
 marineza
 maringa
-Mariângela
+mariï¿½ngela
 marinha
 marinho
 marini
@@ -39278,7 +38577,6 @@ marirlene
 marirose
 maris
 marisa
-Marisa
 marisabel
 marisandra
 marisane
@@ -39288,7 +38586,6 @@ marisaura
 marisbel
 marisdete
 marise
-Marise
 mariseia
 marisela
 mariselia
@@ -39404,7 +38701,6 @@ marivonete
 marivoni
 marivonia
 mariza
-Mariza
 marizabete
 marizaldo
 marizalra
@@ -39416,7 +38712,6 @@ marizangela
 marizani
 marizania
 marize
-Marize
 marizeide
 marizele
 marizelia
@@ -39439,7 +38734,6 @@ marjane
 marjore
 marjori
 marjorie
-Marjorie
 marjory
 marjure
 marjuri
@@ -39471,7 +38765,6 @@ marlelo
 marlen
 marlena
 marlene
-Marlene
 marlenes
 marleni
 marlenia
@@ -39497,9 +38790,8 @@ marleu
 marleudo
 marley
 marli
-Marli
 marlia
-Marília
+marï¿½lia
 marliana
 marliane
 marliani
@@ -39581,7 +38873,6 @@ marlusse
 marlussi
 marluza
 marly
-Marly
 marmo
 marmud
 marmude
@@ -39682,7 +38973,6 @@ marson
 marsonia
 mart
 marta
-Marta
 martan
 martana
 martania
@@ -39692,7 +38982,6 @@ martes
 marteson
 marteus
 martha
-Martha
 marti
 martia
 martiana
@@ -39712,12 +39001,10 @@ martiliano
 martilio
 martilo
 martim
-Martim
 martimiana
 martimiano
 martin
 martina
-Martina
 martine
 martineia
 martineide
@@ -39773,7 +39060,6 @@ marvia
 marviael
 marviane
 marvin
-Marvin
 marvina
 marvio
 marvione
@@ -39786,7 +39072,6 @@ marxsuel
 marxuel
 marxwell
 mary
-Mary
 marya
 maryana
 maryane
@@ -39802,7 +39087,7 @@ marzilia
 marzinho
 marzo
 masa
-Maísa
+maï¿½sa
 masaaki
 masahiko
 masahiro
@@ -39820,7 +39105,6 @@ masayoshi
 masayuki
 mascos
 masculino
-Masculino
 masia
 masilene
 maslova
@@ -39861,31 +39145,25 @@ materson
 mates
 mateu
 mateus
-Mateus
 mathaus
 mathes
 matheu
 matheus
-Matheus
 mathew
 mathews
 mathias
-Mathias
 mathieu
 mathilde
 mathus
 matia
 matiane
 matias
-Matias
 matiel
 matiele
 matieli
 matielo
 matilda
-Matilda
 matilde
-Matilde
 matildes
 matildo
 matilene
@@ -39930,10 +39208,9 @@ mauna
 mauo
 maur
 maura
-Maura
 mauraci
 maurcio
-Maurício
+maurï¿½cio
 maure
 maurea
 maureci
@@ -40044,7 +39321,6 @@ maurizete
 maurizia
 maurizio
 mauro
-Mauro
 mauros
 maurozan
 mauruzan
@@ -40163,12 +39439,10 @@ maxwelly
 maxwender
 maxwillian
 maya
-Maya
 mayana
 mayane
 mayanne
 mayara
-Mayara
 mayck
 mayckon
 mayco
@@ -40200,13 +39474,11 @@ mayonara
 mayone
 mayque
 mayra
-Mayra
 mayre
 mayrla
 mayrlla
 mayron
 maysa
-Maysa
 mayse
 mayslla
 mayson
@@ -40259,7 +39531,6 @@ medson
 meemias
 meg
 megan
-Megan
 megaron
 megg
 meggie
@@ -40281,7 +39552,6 @@ meimei
 meinardo
 meira
 meire
-Meire
 meireane
 meireangela
 meirejane
@@ -40356,7 +39626,6 @@ melicio
 melida
 melina
 melinda
-Melinda
 meline
 meling
 melini
@@ -40365,7 +39634,6 @@ melisandra
 melise
 melisia
 melissa
-Melissa
 melisse
 melissia
 melita
@@ -40418,7 +39686,6 @@ melrick
 melry
 melsi
 melvin
-Melvin
 melvira
 melvis
 melyne
@@ -40599,7 +39866,7 @@ merquiades
 merquide
 merquides
 mersia
-Émerson
+ï¿½merson
 merson
 merval
 mery
@@ -40614,7 +39881,6 @@ messia
 messiana
 messiane
 messias
-Messias
 messina
 messody
 meteus
@@ -40638,7 +39904,6 @@ mguel
 micacia
 micacio
 micael
-Micael
 micaela
 micaele
 micaelen
@@ -40661,18 +39926,15 @@ micelia
 miceno
 michael
 michaela
-Michaela
 michaele
 michaeli
 michaella
-Michaella
 michal
 micharle
 micharles
 miche
 michee
 michel
-Michel
 michela
 michelaine
 michelan
@@ -40682,7 +39944,6 @@ michelangelo
 michelani
 michelania
 michele
-Michele
 michelen
 micheles
 micheli
@@ -40696,7 +39957,6 @@ michelino
 michell
 michella
 michelle
-Michelle
 michellen
 michelli
 michelline
@@ -40757,7 +40017,6 @@ midiane
 midilene
 midore
 midori
-Midori
 mie
 mieceslau
 miecio
@@ -40769,7 +40028,6 @@ migel
 migue
 migueias
 miguel
-Miguel
 miguela
 miguelangelo
 migueli
@@ -40783,7 +40041,6 @@ miguelzinho
 migueu
 mik
 mika
-Mika
 mikael
 mikaela
 mikaele
@@ -40842,7 +40099,6 @@ milcilene
 milda
 mildre
 mildred
-Mildred
 mildson
 mileane
 miled
@@ -40852,7 +40108,6 @@ mileid
 mileide
 mileidi
 milena
-Milena
 milene
 mileni
 milenia
@@ -40901,7 +40156,6 @@ milto
 miltom
 miltomar
 milton
-Milton
 milva
 milvan
 milvane
@@ -40940,7 +40194,6 @@ minervina
 minervino
 ming
 mingmei
-Mingmei
 minguel
 minie
 minor
@@ -41003,7 +40256,6 @@ miramar
 miran
 mirana
 miranda
-Miranda
 mirandir
 mirando
 mirandolina
@@ -41060,7 +40312,6 @@ mireta
 mirgon
 miria
 miriam
-Miriam
 mirian
 miriana
 miriane
@@ -41110,7 +40361,6 @@ mirlian
 mirlon
 mirma
 mirna
-Mirna
 mirne
 mirnia
 mirno
@@ -41239,7 +40489,6 @@ mivia
 miwa
 miyo
 miyoko
-Miyoko
 miyuki
 miza
 mizael
@@ -41249,7 +40498,7 @@ mizaque
 miziara
 mizraim
 mizue
-Mônica
+mï¿½nica
 moab
 moabe
 moabes
@@ -41278,7 +40527,6 @@ modestino
 modesto
 moecio
 moema
-Moema
 moeme
 moemi
 moemia
@@ -41292,7 +40540,6 @@ mohamed
 mohsen
 moiara
 moira
-Moira
 moisa
 moisael
 moisana
@@ -41304,7 +40551,7 @@ moiselita
 moisemar
 moises
 moisiane
-Moisés
+moisï¿½s
 moisses
 moizeis
 moizes
@@ -41361,7 +40608,6 @@ monikelly
 monikue
 moniky
 monique
-Monique
 moniquele
 moniqueli
 moniqui
@@ -41458,7 +40704,7 @@ mouzart
 mouzer
 movan
 moyses
-Moysés
+moysï¿½s
 mozair
 mozania
 mozaniel
@@ -41469,20 +40715,19 @@ mozarildo
 mozarina
 mozarino
 mozart
-Mozart
 mozarte
 mozenclever
 mozer
 mrcelo
-Márcia
+mï¿½rcia
 mrcio
-Márcio
+mï¿½rcio
 mrcos
 mria
 mrian
-Mírian
+mï¿½rian
 mrilza
-Mário
+mï¿½rio
 mrizete
 msrcos
 msria
@@ -41521,7 +40766,6 @@ muriane
 murici
 muricio
 muriel
-Muriel
 muriele
 murielen
 murieli
@@ -41533,7 +40777,6 @@ murila
 murilio
 murillo
 murilo
-Murilo
 muryllo
 musa
 mussa
@@ -41652,14 +40895,12 @@ nadimara
 nadime
 nadina
 nadine
-Nadine
 nadinho
 nadini
 nadio
 nadion
 nadionara
 nadir
-Nadir
 nadira
 nadirene
 nadiria
@@ -41689,7 +40930,6 @@ nadson
 nadsson
 nadua
 nadya
-Nadya
 nadyr
 naecio
 nael
@@ -41789,9 +41029,7 @@ naija
 naijane
 naikson
 naila
-Naila
 nailah
-Nailah
 nailan
 nailana
 nailane
@@ -41824,7 +41062,6 @@ naio
 naionara
 naione
 nair
-Nair
 naira
 nairan
 nairana
@@ -41885,7 +41122,6 @@ najela
 najila
 najla
 najma
-Najma
 najra
 najua
 nakita
@@ -41943,7 +41179,6 @@ nancilene
 nancir
 nancira
 nancy
-Nancy
 nanda
 nandara
 nander
@@ -41979,21 +41214,19 @@ naoki
 naoko
 naoma
 naomi
-Naomi
 naone
 naor
 naoto
 naoyuki
 napoleana
 napoleao
-Napoleão
+napoleï¿½o
 napoleon
 napoliana
 napoliane
 napoliao
 naquele
 nara
-Nara
 naraci
 naraiana
 naraiane
@@ -42015,11 +41248,9 @@ narciane
 narcilene
 narcio
 narcisa
-Narcisa
 narcisia
 narcisio
 narciso
-Narciso
 narciza
 narcizio
 narcizo
@@ -42113,7 +41344,6 @@ nastassja
 nastia
 nata
 natacha
-Natacha
 natache
 natachi
 natacia
@@ -42150,7 +41380,6 @@ natalicia
 natalicio
 natalico
 natalie
-Natalie
 nataliel
 nataliene
 natalin
@@ -42175,7 +41404,6 @@ natami
 natan
 natana
 natanael
-Natanael
 natanaele
 natanaeli
 natanaelia
@@ -42190,7 +41418,6 @@ natania
 natanias
 natanie
 nataniel
-Nataniel
 nataniela
 nataniele
 natanieli
@@ -42206,7 +41433,6 @@ natascha
 natascia
 natash
 natasha
-Natasha
 nataska
 natassia
 natassja
@@ -42223,7 +41449,6 @@ nathacha
 nathalha
 nathali
 nathalia
-Nathalia
 nathalie
 nathally
 nathaly
@@ -42232,7 +41457,6 @@ natham
 nathan
 nathana
 nathanael
-Nathanael
 nathane
 nathani
 nathaniel
@@ -42273,7 +41497,7 @@ natividade
 nativo
 natja
 natlia
-Natália
+natï¿½lia
 nato
 naton
 natoniel
@@ -42345,7 +41569,6 @@ nawany
 naya
 nayad
 nayana
-Nayana
 nayane
 nayanne
 nayara
@@ -42362,7 +41585,7 @@ nayra
 nayron
 nayumi
 naza
-Nazaré
+nazarï¿½
 nazara
 nazare
 nazarena
@@ -42416,7 +41639,7 @@ naziro
 nazita
 nazivaldo
 nazur
-Nádia
+nï¿½dia
 nea
 neacir
 nean
@@ -42497,7 +41720,6 @@ negildo
 negmar
 nego
 nei
-Nei
 neia
 neiane
 neiara
@@ -42505,7 +41727,6 @@ neias
 neid
 neida
 neide
-Neide
 neideane
 neideci
 neidejane
@@ -42837,7 +42058,6 @@ nerel
 nereo
 neres
 nereu
-Nereu
 nereuda
 neri
 neria
@@ -42928,7 +42148,6 @@ nessi
 nessias
 nestino
 nestor
-Nestor
 nestora
 nesvaldo
 net
@@ -43059,7 +42278,6 @@ neurizete
 neuro
 neuron
 neusa
-Neusa
 neusania
 neusdete
 neuse
@@ -43157,7 +42375,6 @@ newson
 newto
 newton
 ney
-Ney
 neyde
 neyla
 neymar
@@ -43173,11 +42390,11 @@ nezinho
 nezio
 nezita
 nezito
-Ângela
+ï¿½ngela
 ngela
-Ângelo
+ï¿½ngelo
 ngrei
-Íngride
+ï¿½ngride
 niagara
 niander
 niandra
@@ -43199,7 +42416,6 @@ nicasio
 nicassia
 nicassio
 nice
-Nice
 nicea
 niceas
 niceia
@@ -43218,7 +42434,6 @@ niceu
 nichele
 nicheli
 nicholas
-Nicholas
 nichollas
 nicholle
 nici
@@ -43262,12 +42477,9 @@ nicolaca
 nicolal
 nicolao
 nicolas
-Nicolas
 nicolau
-Nicolau
 nicolaus
 nicole
-Nicole
 nicoleta
 nicoletta
 nicoli
@@ -43331,7 +42543,6 @@ nigeria
 nigia
 nik
 nika
-Nika
 nikerson
 nikesia
 nikita
@@ -43444,7 +42655,6 @@ nilsandra
 nilsandro
 nilsara
 nilse
-Nilse
 nilsea
 nilseane
 nilseia
@@ -43472,7 +42682,6 @@ nilto
 niltom
 niltomar
 nilton
-Nilton
 nilva
 nilvaci
 nilvado
@@ -43502,7 +42711,6 @@ nilvo
 nilvon
 nilvone
 nilza
-Nilza
 nilzabete
 nilzabeth
 nilzalina
@@ -43532,7 +42740,6 @@ nilzo
 nilzonete
 nimia
 nina
-Nina
 ninaldo
 ninalva
 nineia
@@ -43615,7 +42822,6 @@ nisdete
 nise
 niselma
 nisha
-Nisha
 nisia
 nisio
 nislaine
@@ -43733,8 +42939,7 @@ niziele
 nizio
 nizomar
 nlson
-Nélson
-Nílson
+nï¿½lson
 noab
 noacir
 noade
@@ -43785,7 +42990,6 @@ noedja
 noedna
 noedson
 noel
-Noel
 noele
 noelha
 noeli
@@ -43799,7 +43003,6 @@ noema
 noeme
 noemea
 noemi
-Noemi
 noemia
 noemie
 noemio
@@ -43838,7 +43041,7 @@ nome
 nomeriana
 nomeriano
 nomi
-Noêmia
+noï¿½mia
 nominando
 nominato
 nonata
@@ -43851,10 +43054,8 @@ nonita
 nonito
 nono
 nora
-Nora
 noraci
 norah
-Norah
 noraia
 noraide
 norair
@@ -43873,7 +43074,6 @@ norberta
 norbertina
 norbertino
 norberto
-Norberto
 norbeto
 norca
 norci
@@ -43914,7 +43114,6 @@ norleide
 norlene
 norli
 norma
-Norma
 normacelia
 normaci
 normaleide
@@ -43972,7 +43171,7 @@ noveli
 novembrino
 nozinho
 nozor
-Nórton
+nï¿½rton
 ntonio
 nuan
 nuana
@@ -44007,7 +43206,6 @@ nunciata
 nuncio
 nunes
 nuno
-Nuno
 nunzio
 nur
 nura
@@ -44022,8 +43220,8 @@ nuvia
 nuza
 nuzia
 nuziane
-Nívea
-Nívia
+nï¿½vea
+nï¿½via
 nycolas
 nycole
 nycollas
@@ -44131,8 +43329,8 @@ octacilio
 octavia
 octaviano
 octavio
-Octávia
-Octávio
+octï¿½via
+octï¿½vio
 oda
 odaci
 odacil
@@ -44270,14 +43468,12 @@ odessa
 odessio
 odesvaldo
 odete
-Odete
 odeth
 odeti
 odetina
 odetino
 odeto
 odette
-Odette
 odeva
 odevair
 odeval
@@ -44298,7 +43494,6 @@ odiel
 odiene
 odil
 odila
-Odila
 odilaine
 odilan
 odilane
@@ -44426,7 +43621,7 @@ ofelina
 ofenisia
 ofir
 oflavio
-Ofélia
+ofï¿½lia
 ogair
 ogarina
 ogenil
@@ -44463,7 +43658,6 @@ olavia
 olaviano
 olavio
 olavo
-Olavo
 oldack
 oldair
 oldak
@@ -44486,7 +43680,6 @@ olerindo
 olerino
 olesia
 olga
-Olga
 olgaide
 olgaides
 olgair
@@ -44537,7 +43730,6 @@ oliveiras
 oliveiro
 oliveiros
 oliver
-Oliver
 oliverio
 oliveros
 olivete
@@ -44555,19 +43747,18 @@ olmes
 olmir
 olmira
 olmiro
-Olímpia
-Olímpio
+olï¿½mpia
+olï¿½mpio
 olnei
 olsen
-Olívia
+olï¿½via
 olvide
 olvides
-Olívio
+olï¿½vio
 omair
 omaira
 oman
 omar
-Omar
 omara
 omaria
 omario
@@ -44697,7 +43888,6 @@ onizete
 onizia
 onofra
 onofre
-Onofre
 onofrio
 onofro
 onoir
@@ -44716,7 +43906,6 @@ ontoniel
 ontonio
 oona
 ophelia
-Ophelia
 oquimar
 oraceli
 oracelia
@@ -44847,7 +44036,6 @@ orfa
 orfelia
 orfelina
 orfeu
-Orfeu
 orfila
 orfileno
 orgalina
@@ -44954,7 +44142,6 @@ orlandino
 orlandio
 orlandira
 orlando
-Orlando
 orlandro
 orlane
 orlaneide
@@ -45116,7 +44303,6 @@ osbaldo
 oscalina
 oscalino
 oscar
-Oscar
 oscarcir
 oscarina
 oscarino
@@ -45193,7 +44379,6 @@ osmanio
 osmanito
 osmano
 osmar
-Osmar
 osmara
 osmari
 osmaria
@@ -45291,7 +44476,6 @@ osvaldino
 osvaldir
 osvaldira
 osvaldo
-Osvaldo
 osvalina
 osvalino
 osvalmir
@@ -45325,7 +44509,6 @@ oswaldina
 oswaldino
 oswaldir
 oswaldo
-Oswaldo
 oswando
 oswino
 otacia
@@ -45407,7 +44590,6 @@ otino
 otmar
 otniel
 oto
-Oto
 otocar
 otomar
 oton
@@ -45425,14 +44607,13 @@ ottilia
 ottilio
 ottmar
 otto
-Otto
 ottomar
 otton
 ottoni
 ottoniel
-Otávia
+otï¿½via
 otvin
-Otávio
+otï¿½vio
 oudair
 ouga
 ourides
@@ -45595,7 +44776,6 @@ pablisson
 pablito
 pabllo
 pablo
-Pablo
 pablu
 pabolo
 pabricio
@@ -45608,7 +44788,6 @@ pacheco
 pacifica
 pacifico
 paco
-Paco
 padre
 padricia
 padro
@@ -45637,14 +44816,12 @@ palmirio
 palmiro
 palo
 paloma
-Paloma
 palona
 palova
 paluana
 pamala
 pamara
 pamela
-Pamela
 pamella
 pamelo
 pamera
@@ -45663,10 +44840,8 @@ panmella
 panta
 pantaleao
 paola
-Paola
 paolla
 paolo
-Paolo
 paplo
 paracelso
 paraguacu
@@ -45689,14 +44864,12 @@ paschoalina
 paschoalino
 pascoa
 pascoal
-Pascoal
 pascoale
 pascoalina
 pascoalino
 pascoina
 pasqua
 pasqual
-Pasqual
 pasquale
 pasqualina
 pasqualino
@@ -45713,8 +44886,8 @@ paticia
 patiele
 patila
 patrcia
-Patrícia
-Patrício
+patrï¿½cia
+patrï¿½cio
 patrck
 patrecia
 patrese
@@ -45735,7 +44908,6 @@ patriciele
 patricilene
 patricio
 patrick
-Patrick
 patricke
 patricki
 patrico
@@ -45766,7 +44938,6 @@ paty
 paua
 paul
 paula
-Paula
 paulane
 paulean
 pauleandro
@@ -45789,7 +44960,6 @@ pauliete
 paulimar
 paulin
 paulina
-Paulina
 pauline
 paulinea
 paulineia
@@ -45808,7 +44978,6 @@ paulivan
 paull
 paullo
 paulo
-Paulo
 paulohenrique
 pauloroberto
 paulus
@@ -45836,7 +45005,6 @@ pedrinho
 pedrita
 pedrito
 pedro
-Pedro
 pedrolina
 pedrolino
 pedromar
@@ -45858,7 +45026,7 @@ penha
 penido
 peniel
 penina
-Penélope
+penï¿½lope
 peonia
 pepe
 pepeu
@@ -45916,7 +45084,6 @@ perival
 perivaldo
 perivan
 perla
-Perla
 perli
 perliane
 perlita
@@ -45945,7 +45112,6 @@ person
 perteson
 petala
 peter
-Peter
 petersom
 peterson
 petersson
@@ -46007,11 +45173,9 @@ philipe
 philipp
 philippe
 phillip
-Phillip
 phillipe
 phillipp
 phillippe
-Phillippe
 philomena
 phyllis
 piedade
@@ -46023,7 +45187,6 @@ pierina
 pierluigi
 piero
 pierre
-Pierre
 pierri
 pierry
 pierson
@@ -46032,12 +45195,10 @@ pieter
 pietra
 pietri
 pietro
-Pietro
 piettra
 piettro
 pilade
 pilar
-Pilar
 pilatos
 pina
 pindaro
@@ -46079,7 +45240,7 @@ plesley
 plicia
 plicila
 plinio
-Plínio
+plï¿½nio
 plotino
 plutarco
 pociano
@@ -46201,7 +45362,6 @@ prisciane
 prisciele
 priscieli
 priscila
-Priscila
 priscilaine
 priscilane
 priscilene
@@ -46209,7 +45369,6 @@ priscilia
 prisciliana
 prisciliane
 priscilla
-Priscilla
 priscilo
 priscla
 prisco
@@ -46394,7 +45553,6 @@ quilza
 quim
 quimberli
 quincas
-Quincas
 quintiliana
 quintiliano
 quintina
@@ -46411,7 +45569,7 @@ quissila
 quitera
 quiteria
 quiterio
-Quitéria
+quitï¿½ria
 quivia
 raab
 raabe
@@ -46422,7 +45580,6 @@ rabechy
 rabib
 rabibi
 rachel
-Rachel
 rachele
 racheli
 rachell
@@ -46480,9 +45637,7 @@ raessa
 raf
 rafae
 rafael
-Rafael
 rafaela
-Rafaela
 rafaele
 rafaelen
 rafaeli
@@ -46490,7 +45645,6 @@ rafaelina
 rafaelita
 rafaell
 rafaella
-Rafaella
 rafaelle
 rafaellen
 rafaelli
@@ -46672,7 +45826,6 @@ raimunda
 raimundinha
 raimundinho
 raimundo
-Raimundo
 raimundos
 raimuno
 rain
@@ -46765,12 +45918,10 @@ raivane
 raiza
 raizza
 raj
-Raj
 raja
 rajane
 raje
 rajesh
-Rajesh
 rajiv
 rakel
 rakele
@@ -46934,7 +46085,6 @@ ranger
 rangeu
 rangner
 rani
-Rani
 rania
 raniane
 raniara
@@ -47009,14 +46159,12 @@ raoni
 raony
 rapfael
 raphael
-Raphael
 raphaela
 raphaella
 raphel
 raque
 raqueane
 raquel
-Raquel
 raquela
 raquelane
 raquele
@@ -47055,14 +46203,14 @@ rariston
 rariton
 raron
 rasa
-Raísa
+raï¿½sa
 rasana
 rasane
 rasangela
 raseli
 rasilda
 rasna
-Raíssa
+raï¿½ssa
 rassan
 rassana
 rau
@@ -47090,7 +46238,6 @@ raufe
 raufi
 raufran
 raul
-Raul
 raulin
 raulina
 raulinda
@@ -47207,9 +46354,7 @@ reani
 reasilva
 rebbeca
 rebeca
-Rebeca
 rebecca
-Rebecca
 rebeka
 reber
 reberson
@@ -47269,7 +46414,6 @@ regian
 regiana
 regiandro
 regiane
-Regiane
 regiani
 regianio
 regianne
@@ -47318,7 +46462,6 @@ regimario
 regimauro
 regimeire
 regina
-Regina
 reginado
 reginal
 reginald
@@ -47405,7 +46548,6 @@ reinald
 reinalda
 reinaldino
 reinaldo
-Reinaldo
 reinalice
 reinalto
 reinalva
@@ -47536,7 +46678,6 @@ renalvo
 renaly
 renam
 renan
-Renan
 renana
 renanda
 renania
@@ -47549,14 +46690,12 @@ renario
 renaro
 renat
 renata
-Renata
 renate
 renatha
 renati
 renatiele
 renatinho
 renato
-Renato
 renatta
 renatto
 renaud
@@ -47573,7 +46712,7 @@ rendrique
 rendrix
 rendson
 rene
-Reneé
+reneï¿½
 renea
 reneci
 renedi
@@ -47744,7 +46883,6 @@ revison
 revson
 rex
 reynaldo
-Reynaldo
 reynan
 reynolds
 rezende
@@ -47778,7 +46916,7 @@ ribas
 ribeiro
 riberta
 riberto
-Érica
+ï¿½rica
 rica
 ricacia
 ricacio
@@ -47793,7 +46931,6 @@ ricardi
 ricardina
 ricardino
 ricardo
-Ricardo
 ricardson
 ricarla
 ricarlo
@@ -47821,7 +46958,6 @@ richadson
 richan
 richar
 richard
-Richard
 richarde
 richardes
 richardi
@@ -47873,7 +47009,7 @@ riclecia
 riclecio
 ricleia
 riclesia
-Érico
+ï¿½rico
 ricolice
 ricon
 ricrdo
@@ -47921,7 +47057,7 @@ rigson
 rihanna
 rijkaard
 rik
-Érika
+ï¿½rika
 rikelly
 rikelma
 rikelme
@@ -47931,7 +47067,7 @@ rikelvi
 riki
 rikio
 rikison
-Ériko
+ï¿½riko
 rikson
 rilare
 rilari
@@ -48012,7 +47148,7 @@ riquelve
 riquelvi
 riqueta
 riqui
-Íris
+ï¿½ris
 risa
 risadalva
 risael
@@ -48086,7 +47222,6 @@ rister
 ristian
 riston
 rita
-Rita
 ritade
 ritalice
 ritalina
@@ -48208,7 +47343,7 @@ rizonete
 rizza
 rizzia
 rjane
-Rômulo
+rï¿½mulo
 rnan
 roabe
 roald
@@ -48295,7 +47430,6 @@ roberon
 roberson
 robert
 roberta
-Roberta
 robertania
 roberte
 roberth
@@ -48306,7 +47440,6 @@ robertinho
 robertino
 robertison
 roberto
-Roberto
 roberton
 roberts
 robertson
@@ -48342,7 +47475,6 @@ robiano
 robilan
 robin
 robinson
-Robinson
 robis
 robismar
 robisom
@@ -48360,7 +47492,6 @@ robsn
 robso
 robsom
 robson
-Robson
 robspierre
 robsson
 robston
@@ -48466,7 +47597,6 @@ rodofo
 rodolf
 rodolfino
 rodolfo
-Rodolfo
 rodolpho
 rodomilson
 rodomiro
@@ -48484,7 +47614,6 @@ rodriga
 rodriggo
 rodrigi
 rodrigo
-Rodrigo
 rodrigos
 rodrigue
 rodrigues
@@ -48535,7 +47664,6 @@ rogenilton
 rogenio
 rogens
 roger
-Roger
 rogeres
 rogeri
 rogeria
@@ -48576,9 +47704,9 @@ rogivaldo
 rognei
 rogner
 rogoberto
-Rogéria
+rogï¿½ria
 rogrigo
-Rogério
+rogï¿½rio
 rogue
 roiter
 rojana
@@ -48592,7 +47720,6 @@ rok
 rokson
 roland
 rolando
-Rolando
 roldan
 roldao
 rolemberg
@@ -48684,7 +47811,6 @@ romerson
 romes
 romeson
 romeu
-Romeu
 romi
 romice
 romicio
@@ -48982,7 +48108,6 @@ rorivaldo
 rory
 ros
 rosa
-Rosa
 rosabel
 rosacleia
 rosacleide
@@ -49038,7 +48163,6 @@ rosamir
 rosamira
 rosan
 rosana
-Rosana
 rosanalia
 rosanara
 rosandela
@@ -49047,7 +48171,6 @@ rosandira
 rosandra
 rosandro
 rosane
-Rosane
 rosanea
 rosaneia
 rosaneide
@@ -49096,7 +48219,6 @@ rosber
 rosberg
 rosbergue
 rose
-Rose
 rosean
 roseana
 roseane
@@ -49582,7 +48704,7 @@ rosnete
 rosngela
 roso
 roson
-Rosário
+rosï¿½rio
 ross
 rossana
 rossandra
@@ -49660,9 +48782,7 @@ rowan
 rowena
 rowilson
 roxana
-Roxana
 roxane
-Roxane
 roy
 royce
 roza
@@ -49702,7 +48822,7 @@ rozineide
 rozinete
 rozivaldo
 rpdrigo
-Úrsula
+ï¿½rsula
 rua
 ruam
 ruama
@@ -49729,7 +48849,6 @@ rubelina
 rubelino
 rubelio
 rubem
-Rubem
 rubemar
 rubemario
 ruben
@@ -49758,7 +48877,6 @@ rubenita
 rubenite
 rubenito
 rubens
-Rubens
 rubensmar
 rubenson
 rubensval
@@ -49897,7 +49015,6 @@ ruggiero
 rugles
 ruhan
 rui
-Rui
 ruideglan
 ruidemar
 ruidglan
@@ -49950,7 +49067,6 @@ ruston
 rusvel
 rut
 rute
-Rute
 rutecleia
 rutemberg
 rutembergue
@@ -49959,7 +49075,6 @@ ruteneia
 rutenia
 rutenio
 ruth
-Ruth
 ruthcleia
 ruthe
 ruthellen
@@ -50006,7 +49121,6 @@ ruty
 ruver
 ruvia
 ruy
-Ruy
 ruzia
 ruzinete
 rwan
@@ -50046,7 +49160,6 @@ sabricia
 sabricio
 sabriele
 sabrina
-Sabrina
 sabrine
 sabrini
 sabrino
@@ -50054,7 +49167,6 @@ sabryna
 sabta
 saburo
 sacha
-Sacha
 sachie
 sachiko
 sacramento
@@ -50086,7 +49198,6 @@ sady
 saed
 safia
 safira
-Safira
 safire
 safiri
 sagiane
@@ -50145,7 +49256,6 @@ salette
 salezio
 sali
 salim
-Salim
 salime
 salin
 salis
@@ -50156,7 +49266,6 @@ salizete
 salles
 sallete
 salma
-Salma
 salman
 salmen
 salmeron
@@ -50166,12 +49275,12 @@ salmito
 salmo
 salmon
 salmos
-Salomé
+salomï¿½
 salomao
 salome
 salomea
 salomeia
-Salomão
+salomï¿½o
 salomon
 salu
 salua
@@ -50187,7 +49296,6 @@ salustriano
 salustrina
 salute
 salvador
-Salvador
 salvadora
 salvatina
 salvato
@@ -50208,15 +49316,12 @@ samana
 samanda
 samandra
 samanta
-Samanta
 samanth
 samantha
-Samantha
 samantra
 samantta
 samar
 samara
-Samara
 samari
 samaria
 samarina
@@ -50256,9 +49361,7 @@ samine
 samio
 samique
 samir
-Samir
 samira
-Samira
 samirames
 samiramis
 samire
@@ -50282,7 +49385,6 @@ samuara
 samuca
 samue
 samuel
-Samuel
 samuell
 samuelson
 samur
@@ -50362,7 +49464,6 @@ sandovaldo
 sandovania
 sandr
 sandra
-Sandra
 sandramar
 sandramara
 sandre
@@ -50410,7 +49511,6 @@ sandrini
 sandrino
 sandrival
 sandro
-Sandro
 sandroelma
 sandromar
 sandronei
@@ -50490,11 +49590,9 @@ sanzio
 sao
 saori
 sara
-Sara
 sarafim
 sarafina
 sarah
-Sarah
 sarai
 saraia
 saraiane
@@ -50527,7 +49625,6 @@ sarvia
 sarvio
 sascha
 sasha
-Sasha
 saskia
 sasquia
 sati
@@ -50559,7 +49656,6 @@ saul
 saula
 saullo
 saulo
-Saulo
 saulos
 saura
 sauria
@@ -50594,7 +49690,6 @@ scarlate
 scarlatt
 scarlaty
 scarlet
-Scarlet
 scarlete
 scarlett
 scarlette
@@ -50653,7 +49748,7 @@ sebastiao
 sebastien
 sebastina
 sebastio
-Sebastião
+sebastiï¿½o
 sebastioa
 sebatiana
 sebatiao
@@ -50714,7 +49809,6 @@ seleme
 selemias
 selena
 selene
-Selene
 seleni
 selenia
 selenice
@@ -50749,7 +49843,6 @@ selita
 selivaldo
 selivio
 selma
-Selma
 selmar
 selmara
 selme
@@ -50826,16 +49919,13 @@ seoni
 sepe
 sepriano
 serafim
-Serafim
 serafin
 serafina
-Serafina
 serafino
 serapiao
 serbastiao
 sercio
 serena
-Serena
 sereni
 serenilda
 serenita
@@ -50942,11 +50032,9 @@ severina
 severine
 severinio
 severino
-Severino
 severio
 severno
 severo
-Severo
 severton
 sevilha
 sevio
@@ -50975,7 +50063,6 @@ shaila
 shaina
 shaine
 shakira
-Shakira
 shalana
 shalimar
 shallon
@@ -50998,7 +50085,6 @@ shara
 sharlene
 sharles
 sharon
-Sharon
 shauan
 shauanda
 shauany
@@ -51013,12 +50099,10 @@ shayenne
 shaymon
 sheena
 sheila
-Sheila
 sheilane
 sheile
 sheiliane
 sheilla
-Sheilla
 sheilo
 sheina
 sheine
@@ -51041,7 +50125,6 @@ shelry
 shelton
 shelzia
 shen
-Shen
 shena
 shenia
 sheren
@@ -51096,7 +50179,6 @@ shirle
 shirlea
 shirleane
 shirlei
-Shirlei
 shirleia
 shirleide
 shirleine
@@ -51106,7 +50188,6 @@ shirlene
 shirleni
 shirleno
 shirley
-Shirley
 shirliane
 shirliene
 shirlley
@@ -51136,7 +50217,6 @@ siara
 siaria
 sibaldo
 sibele
-Sibele
 sibeli
 sibelius
 sibelle
@@ -51264,7 +50344,6 @@ sidnara
 sidne
 sidnea
 sidnei
-Sidnei
 sidneia
 sidneide
 sidneis
@@ -51274,7 +50353,6 @@ sidnelson
 sidnes
 sidneu
 sidney
-Sidney
 sidneya
 sido
 sidomar
@@ -51361,7 +50439,6 @@ silei
 sileia
 sileide
 silena
-Silena
 silencio
 silene
 sileni
@@ -51443,7 +50520,6 @@ silvamara
 silvamaria
 silvan
 silvana
-Silvana
 silvanara
 silvanda
 silvander
@@ -51608,7 +50684,7 @@ simira
 simirames
 simiramis
 simo
-Simão
+simï¿½o
 simoa
 simoes
 simome
@@ -51618,7 +50694,6 @@ simonal
 simonaldo
 simonara
 simone
-Simone
 simonea
 simoneia
 simoneide
@@ -51833,7 +50908,7 @@ sirso
 sirval
 sirvaldo
 sirvano
-Ísis
+ï¿½sis
 sisara
 sisero
 sislaine
@@ -51912,9 +50987,8 @@ sizomar
 sizue
 slash
 sloan
-Sílvia
-Sálvio
-Sílvio
+sï¿½lvia
+sï¿½lvio
 smael
 smaily
 smaria
@@ -51922,7 +50996,7 @@ smenia
 smile
 smirna
 smith
-Sônia
+sï¿½nia
 soane
 soani
 soara
@@ -51931,7 +51005,6 @@ soaria
 sobral
 socorra
 socorro
-Socorro
 socrates
 socratis
 sodario
@@ -51948,7 +51021,6 @@ soenia
 sofhia
 sofi
 sofia
-Sofia
 sofocles
 sofonias
 soiane
@@ -51966,7 +51038,6 @@ solane
 solanea
 solaneide
 solange
-Solange
 solangea
 solangela
 solangem
@@ -52079,13 +51150,10 @@ sonoe
 sonora
 soon
 sophia
-Sophia
 sophie
-Sophie
 sophya
 sorai
 soraia
-Soraia
 soraide
 soraima
 soralia
@@ -52095,7 +51163,6 @@ sorane
 sorania
 sorato
 soraya
-Soraya
 soreia
 sorene
 soriana
@@ -52124,7 +51191,7 @@ spencer
 sr
 srael
 srgio
-Sérgio
+sï¿½rgio
 stace
 stacy
 stael
@@ -52159,7 +51226,6 @@ stefanne
 stefanni
 stefanny
 stefano
-Stefano
 stefany
 stefene
 stefeni
@@ -52185,7 +51251,6 @@ stelina
 stelio
 stelita
 stella
-Stella
 stellamaris
 stelle
 stellita
@@ -52310,7 +51375,6 @@ suelena
 suelene
 sueleni
 sueli
-Sueli
 suelia
 suelin
 suelington
@@ -52329,7 +51393,6 @@ suelly
 suellyn
 suelma
 suely
-Suely
 suemar
 suemara
 sueme
@@ -52456,7 +51519,6 @@ susamar
 susamara
 susan
 susana
-Susana
 susane
 susani
 suse
@@ -52576,7 +51638,6 @@ sylvio
 symon
 synara
 syon
-Syon
 syrlana
 syrlete
 tabada
@@ -52586,12 +51647,10 @@ tabatha
 tabea
 tabida
 tabita
-Tabita
 tabta
 taci
 tacia
 taciana
-Taciana
 taciane
 taciani
 taciano
@@ -52638,7 +51697,6 @@ tadayuki
 tadel
 tadeo
 tadeu
-Tadeu
 tadeus
 tadia
 tadiana
@@ -52816,7 +51874,6 @@ takako
 takanori
 takao
 takashi
-Takashi
 takasi
 takayuki
 takeo
@@ -52829,7 +51886,6 @@ talassa
 taleia
 talena
 tales
-Tales
 talessa
 talesson
 talia
@@ -52862,7 +51918,6 @@ talissia
 talissom
 talisson
 talita
-Talita
 talitha
 talitiele
 talito
@@ -52882,7 +51937,7 @@ talmir
 talmires
 talmo
 talmon
-Ítalo
+ï¿½talo
 taltibio
 taluan
 taluana
@@ -52902,7 +51957,6 @@ tamaira
 tamanda
 tamar
 tamara
-Tamara
 tamares
 tamaria
 tamaris
@@ -52973,7 +52027,6 @@ tanata
 tanci
 tancledo
 tancredo
-Tancredo
 tandara
 tande
 tanderson
@@ -53076,7 +52129,7 @@ tarcius
 tarcizio
 tarcizo
 tarco
-Tarcísio
+tarcï¿½sio
 tardele
 tardeli
 tardelli
@@ -53125,7 +52178,6 @@ tarsiane
 tarsiano
 tarsicio
 tarsila
-Tarsila
 tarsilia
 tarsilla
 tarsilo
@@ -53133,7 +52185,6 @@ tarsio
 tarsis
 tarsisio
 tarso
-Tarso
 tarson
 tarssia
 tarssiana
@@ -53142,7 +52193,7 @@ tarssio
 tarsso
 taryn
 tarzan
-Taís
+taï¿½s
 tasciana
 tasciane
 tascila
@@ -53157,7 +52208,6 @@ tassara
 tassi
 tassia
 tassiana
-Tassiana
 tassiane
 tassiani
 tassiano
@@ -53181,9 +52231,7 @@ tatia
 tatiaia
 tatian
 tatiana
-Tatiana
 tatiane
-Tatiane
 tatiani
 tatianne
 tatiano
@@ -53293,7 +52341,7 @@ taysa
 tayse
 tayson
 tayssa
-Tábata
+tï¿½bata
 tcharla
 tcharles
 tcharley
@@ -53312,7 +52360,6 @@ tecilia
 tecio
 tecla
 ted
-Ted
 tedd
 teddy
 tede
@@ -53341,7 +52388,6 @@ telino
 telio
 telirio
 telma
-Telma
 telmara
 telmaria
 telmario
@@ -53350,7 +52396,6 @@ telmicio
 telmira
 telmiro
 telmo
-Telmo
 telna
 telso
 telson
@@ -53391,7 +52436,6 @@ tenisson
 teno
 tenorio
 teo
-Teo
 teobaldina
 teobaldo
 teocrito
@@ -53406,7 +52450,6 @@ teodomira
 teodomiro
 teodor
 teodora
-Teodora
 teodoria
 teodorica
 teodorico
@@ -53414,7 +52457,6 @@ teodorina
 teodorino
 teodorio
 teodoro
-Teodoro
 teodosia
 teodosio
 teofanes
@@ -53474,7 +52516,6 @@ terencio
 terenice
 teres
 teresa
-Teresa
 teresina
 teresinha
 teressa
@@ -53573,7 +52614,6 @@ thaiza
 thaize
 thaizy
 thales
-Thales
 thalia
 thaliane
 thaline
@@ -53582,7 +52622,6 @@ thalison
 thalissa
 thalisson
 thalita
-Thalita
 thalles
 thalliny
 thallis
@@ -53612,7 +52651,7 @@ tharles
 tharlles
 tharlley
 tharllys
-Thaís
+thaï¿½s
 thase
 thassia
 thassio
@@ -53657,25 +52696,20 @@ thaywane
 thayza
 thea
 thelma
-Thelma
 themes
 themis
 theo
-Theo
 theobaldo
 theodora
 theodore
 theodoro
-Theodoro
 theresa
-Theresa
 theresinha
 thereza
 therezinha
 thesley
 thiaggo
 thiago
-Thiago
 thiane
 thiao
 thiara
@@ -53697,9 +52731,7 @@ thiffany
 thigo
 this
 thomas
-Thomas
 thomaz
-Thomaz
 thompson
 thonatan
 thor
@@ -53713,7 +52745,6 @@ thyssa
 tiaga
 tiagner
 tiago
-Tiago
 tiala
 tiana
 tiandra
@@ -53816,7 +52847,6 @@ tita
 titania
 titiane
 tito
-Tito
 titus
 tiva
 tiyomi
@@ -53824,11 +52854,10 @@ tiza
 tiziana
 tiziano
 tizuko
-Tânia
+tï¿½nia
 toane
 toani
 tobias
-Tobias
 todd
 togo
 toinha
@@ -53840,13 +52869,12 @@ toledo
 tolentina
 tolentino
 tom
-Tomé
+tomï¿½
 tomaes
 tomais
 tomas
 tomasia
 tomaz
-Tomaz
 tomaza
 tomazia
 tomazio
@@ -53863,7 +52891,7 @@ tomoe
 tomohiro
 tomoko
 tomoyuki
-Tomás
+tomï¿½s
 tone
 tones
 tonha
@@ -53944,7 +52972,6 @@ tristan
 tristao
 troy
 trudy
-Trudy
 tsai
 tseng
 tsuguio
@@ -54058,7 +53085,6 @@ ubalda
 ubaldina
 ubaldino
 ubaldo
-Ubaldo
 ubaneide
 ubano
 ubatan
@@ -54235,7 +53261,6 @@ ueverton
 ueveton
 ueviton
 ugo
-Ugo
 ugor
 uiara
 uilame
@@ -54278,7 +53303,6 @@ ulisis
 ulismar
 ulisseia
 ulisses
-Ulisses
 ulissis
 ullisses
 ully
@@ -54286,7 +53310,6 @@ ulpiano
 ulrica
 ulrich
 ulrika
-Ulrika
 ulrike
 ultimo
 ulysses
@@ -54294,7 +53317,6 @@ umbelina
 umbelino
 umberlina
 umberto
-Umberto
 umeko
 umerson
 una
@@ -54329,7 +53351,6 @@ uraquitan
 urbana
 urbanita
 urbano
-Urbano
 urbino
 urcina
 urcino
@@ -54445,7 +53466,6 @@ vagneide
 vagnel
 vagnelia
 vagner
-Vagner
 vagnes
 vagnete
 vagnilson
@@ -54668,7 +53688,6 @@ valdelucio
 valdeluzia
 valdema
 valdemar
-Valdemar
 valdemara
 valdemarcio
 valdemaria
@@ -54686,7 +53705,6 @@ valdemilson
 valdemilton
 valdemio
 valdemir
-Valdemir
 valdemira
 valdemirio
 valdemiro
@@ -54980,7 +53998,6 @@ valdionir
 valdionor
 valdique
 valdir
-Valdir
 valdira
 valdiran
 valdirane
@@ -55045,7 +54062,6 @@ valdneide
 valdner
 valdnice
 valdo
-Valdo
 valdoberto
 valdoci
 valdocir
@@ -55059,7 +54075,6 @@ valdomir
 valdomira
 valdomiria
 valdomiro
-Valdomiro
 valdon
 valdone
 valdonei
@@ -55096,13 +54111,10 @@ valenice
 valenir
 valente
 valentim
-Valentim
 valentin
 valentina
-Valentina
 valentine
 valentino
-Valentino
 valera
 valere
 valeri
@@ -55190,7 +54202,6 @@ valmin
 valmina
 valmique
 valmir
-Valmir
 valmira
 valmiral
 valmiran
@@ -55279,13 +54290,13 @@ valquirio
 valquiris
 valquiro
 valquisia
-Valquíria
+valquï¿½ria
 valrene
 valria
-Valéria
+valï¿½ria
 valricelio
 valrilene
-Valério
+valï¿½rio
 valsemir
 valsergio
 valsilene
@@ -55338,7 +54349,6 @@ valtensir
 valteon
 valteone
 valter
-Valter
 valteran
 valterci
 valtercia
@@ -55453,7 +54463,6 @@ vancleide
 vancleiton
 vancler
 vanda
-Vanda
 vandaik
 vandaique
 vandair
@@ -55552,7 +54561,6 @@ vanderlanio
 vanderle
 vanderlea
 vanderlei
-Vanderlei
 vanderleia
 vanderleide
 vanderleis
@@ -55563,7 +54571,6 @@ vanderlenia
 vanderleo
 vanderlete
 vanderley
-Vanderley
 vanderli
 vanderlia
 vanderlice
@@ -55647,7 +54654,6 @@ vandite
 vandival
 vandivaldo
 vando
-Vando
 vandoir
 vandomar
 vandonir
@@ -55701,7 +54707,6 @@ vaneska
 vaneson
 vaness
 vanessa
-Vanessa
 vanesse
 vanessi
 vanessia
@@ -55956,7 +54961,7 @@ velci
 veleda
 veleida
 velicia
-Évelin
+ï¿½velin
 velina
 velise
 veliton
@@ -56045,7 +55050,6 @@ venuto
 venuzia
 veonice
 vera
-Vera
 veraci
 veracilda
 verailde
@@ -56140,7 +55144,6 @@ vericio
 vericleide
 veridian
 veridiana
-Veridiana
 veridiane
 veridiani
 veridiano
@@ -56185,7 +55188,7 @@ verlinda
 verlon
 vernei
 verner
-Verônica
+verï¿½nica
 vernilda
 verno
 vernon
@@ -56267,7 +55270,6 @@ vicensa
 vicent
 vicenta
 vicente
-Vicente
 vicenti
 vicentina
 vicentino
@@ -56285,20 +55287,17 @@ victalino
 victo
 victon
 victor
-Victor
 victoria
 victoriana
 victoriano
 victorina
 victorino
 victorio
-Victorio
 victorugo
 victtor
 victtoria
 vida
 vidal
-Vidal
 vidalia
 vidalvina
 vidalvino
@@ -56375,7 +55374,6 @@ ville
 villi
 villian
 vilma
-Vilma
 vilmaci
 vilmair
 vilmar
@@ -56427,10 +55425,10 @@ vincente
 vincentina
 vincenza
 vincenzo
-Vinício
+vinï¿½cio
 vincios
 vincius
-Vinícius
+vinï¿½cius
 vindilina
 vindilino
 vine
@@ -56464,7 +55462,6 @@ vino
 vinolia
 violante
 violeta
-Violeta
 violette
 viomar
 vionei
@@ -56490,7 +55487,7 @@ virginia
 virginie
 virginio
 virgino
-Virgínia
+virgï¿½nia
 virgulina
 virgulino
 viriato
@@ -56564,8 +55561,8 @@ vitorina
 vitorino
 vitorio
 vitorugo
-Vitória
-Vitório
+vitï¿½ria
+vitï¿½rio
 vittor
 vittoria
 vittorio
@@ -56595,11 +55592,8 @@ vivia
 viviam
 viviame
 vivian
-Vivian
 viviana
-Viviana
 viviane
-Viviane
 viviani
 viviania
 vivianne
@@ -56609,7 +55603,6 @@ viviele
 vivielen
 vivieli
 vivien
-Vivien
 viviene
 vivilaine
 vivilane
@@ -56630,7 +55623,6 @@ vladilson
 vladimar
 vladimilson
 vladimir
-Vladimir
 vladimiro
 vladinei
 vladineia
@@ -56643,7 +55635,7 @@ vlauber
 vlaudemir
 vlaudia
 vlaudimir
-Vânia
+vï¿½nia
 vnicius
 volga
 volgran
@@ -56675,7 +55667,7 @@ votoria
 vrademir
 vramir
 vtor
-Vítor
+vï¿½tor
 vtoria
 vunibaldo
 wabner
@@ -56716,7 +55708,6 @@ wagne
 wagnei
 wagneia
 wagner
-Wagner
 wagnes
 wagno
 wagnon
@@ -56794,14 +55785,11 @@ waldelita
 waldeliz
 waldelucia
 waldemar
-Waldemar
 waldemarina
 waldemilson
 waldemir
-Waldemir
 waldemira
 waldemiro
-Waldemiro
 waldene
 waldeneide
 waldenes
@@ -56872,7 +55860,6 @@ waldino
 waldionor
 waldique
 waldir
-Waldir
 waldira
 waldirene
 waldireni
@@ -56892,16 +55879,13 @@ waldiza
 waldizia
 waldmir
 waldo
-Waldo
 waldoir
 waldomir
 waldomira
 waldomiro
-Waldomiro
 waldonier
 waldson
 waldyr
-Waldyr
 walece
 walef
 walefe
@@ -56946,7 +55930,6 @@ walkirio
 walkyria
 wallac
 wallace
-Wallace
 wallaci
 wallacy
 wallaf
@@ -56984,7 +55967,6 @@ walmick
 walmik
 walmique
 walmir
-Walmir
 walmira
 walmiria
 walmiro
@@ -57006,7 +55988,7 @@ walquirene
 walquires
 walquiria
 walquirio
-Walquíria
+walquï¿½ria
 walt
 waltair
 waltamir
@@ -57027,7 +56009,6 @@ waltenis
 walteno
 waltensir
 walter
-Walter
 walterci
 waltercides
 waltercio
@@ -57069,7 +56050,6 @@ wancler
 wancley
 wand
 wanda
-Wanda
 wandaik
 wandair
 wandeberg
@@ -57115,7 +56095,6 @@ wanderleide
 wanderlene
 wanderlete
 wanderley
-Wanderley
 wanderli
 wanderlice
 wanderlin
@@ -57151,7 +56130,6 @@ wandison
 wandisson
 wandja
 wando
-Wando
 wandra
 wandras
 wandre
@@ -57180,7 +56158,6 @@ wanes
 wanesa
 waneska
 wanessa
-Wanessa
 wanete
 wang
 wangela
@@ -57622,7 +56599,6 @@ wendrio
 wendrius
 wendson
 wendy
-Wendy
 wenede
 wenedy
 wenel
@@ -57789,7 +56765,6 @@ wesleny
 wesler
 wesles
 wesley
-Wesley
 wesli
 weslia
 wesliana
@@ -58060,7 +57035,6 @@ willhan
 willi
 willia
 william
-William
 williamar
 williamberg
 williame
@@ -58112,7 +57086,6 @@ willyan
 willyane
 willys
 wilma
-Wilma
 wilmair
 wilman
 wilmar
@@ -58149,14 +57122,12 @@ wilso
 wilsom
 wilsomar
 wilson
-Wilson
 wilsoney
 wilsson
 wilta
 wiltom
 wiltomar
 wilton
-Wilton
 wilva
 wilvania
 wilver
@@ -58281,7 +57252,6 @@ wlademir
 wladia
 wladiane
 wladimir
-Wladimir
 wladinir
 wladir
 wladislau
@@ -58377,9 +57347,7 @@ xande
 xandy
 xarles
 xavier
-Xavier
 xaviera
-Xaviera
 xeila
 xenia
 xerxes
@@ -58430,13 +57398,9 @@ yarlla
 yaskara
 yasmi
 yasmim
-Yasmim
 yasmin
-Yasmin
 yasmina
-Yasmina
 yasmine
-Yasmine
 yasmini
 yasmyn
 yasnin
@@ -58482,17 +57446,14 @@ yoichi
 yoiti
 yoji
 yoko
-Yoko
 yolanda
-Yolanda
 yollanda
 yon
-Yoná
+yonï¿½
 yona
 yonara
 yonatan
 yone
-Yone
 yoneko
 yones
 yong
@@ -58506,7 +57467,6 @@ yorrana
 yorrane
 yosef
 yoshi
-Yoshi
 yoshiaki
 yoshie
 yoshiharu
@@ -58544,12 +57504,10 @@ yukihiro
 yukiko
 yukimi
 yukio
-Yukio
 yuko
 yuli
 yume
 yumi
-Yumi
 yumiko
 yung
 yuni
@@ -58557,7 +57515,6 @@ yur
 yuran
 yure
 yuri
-Yuri
 yurian
 yuriane
 yurick
@@ -58577,14 +57534,11 @@ yuzo
 yvan
 yves
 yvette
-Yvette
 yvone
-Yvone
 yvonne
 zac
 zacaria
 zacarias
-Zacarias
 zacharias
 zacheu
 zaclis
@@ -58645,7 +57599,6 @@ zaqueu
 zaquiel
 zaquieu
 zara
-Zara
 zarias
 zarif
 zarifa
@@ -58714,7 +57667,6 @@ zenadio
 zenaid
 zenaida
 zenaide
-Zenaide
 zenaides
 zenailde
 zenair
@@ -58784,7 +57736,6 @@ zenobre
 zenoir
 zenolia
 zenon
-Zenon
 zenovio
 zenubia
 zeny
@@ -58843,7 +57794,6 @@ zilar
 zilca
 zilcleia
 zilda
-Zilda
 zildamir
 zildeane
 zildeci
@@ -58913,10 +57863,9 @@ zizi
 ziziane
 zizita
 zizito
-Zélia
+zï¿½lia
 zodja
 zoe
-Zoe
 zoenio
 zoete
 zoia
@@ -58952,14 +57901,12 @@ zuila
 zulamar
 zulede
 zuleica
-Zuleica
 zuleida
 zuleide
 zuleidi
 zuleiga
 zuleik
 zuleika
-Zuleika
 zuleima
 zulema
 zulene
@@ -58968,7 +57915,7 @@ zulmar
 zulmerinda
 zulmir
 zulmira
-Zulmiraabel
+zulmiraabel
 zulmiraname
 zulmiro
 zuma

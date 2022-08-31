@@ -51,19 +51,19 @@ Córdoba
 Corte Real 
 Cortês 
 Costa 
-Coutinho 
-Crespo 
-Cunha 
-Curado 
+coutinho 
+crespo 
+cunha 
+curado 
 Custódio 
-da Conceição 
-da Costa 
-da Cruz 
-da Cunha 
-da Luz 
-Damásio 
-da Mata 
-da Mota 
+daConceicao 
+dacosta 
+dacruz 
+dacunha 
+daluz 
+damasio 
+damata 
+damota 
 Dantas 
 da Paz 
 da Rocha 

